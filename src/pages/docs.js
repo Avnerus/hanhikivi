@@ -81,14 +81,11 @@ const DocsPage = ({data}) => (
                                 </DocTitle>
                             </div>
                             <DocFooter>
-                                <div
-                                    css={css`
-                                    `}
-                                >
+                                <div>
                                 > More Info
                                 </div>
                                 <div>
-                                    <img style={{paddingBottom: 0}} src={fileIcon}></img>
+                                    <img src={fileIcon}></img>
                                 </div>
                             </DocFooter>
                       </DocBlock>

@@ -51,7 +51,6 @@ const Header = ({ siteTitle }) => (
     >
         <img src={logo} style={{
             width: '354px',
-            marginBottom: '0',
             marginRight: '100px'
         }}></img>
     </Link>
