@@ -13,7 +13,8 @@ import Header from "./header"
 import "./layout.css"
 
 export const Theme = {
-    docsBackgroundColor: "#F7F2D0"
+    docsBackgroundColor: "#F7F2D0",
+    defaultGreen: "#007649"
 }
 
 const Layout = ({ children }) => (
@@ -34,7 +35,7 @@ const Layout = ({ children }) => (
           style={{
             margin: `0 auto`,
             maxWidth: 1440,
-            padding: `0px 1.0875rem 1.45rem`,
+            padding: `0px 50px 55px`,
             paddingTop: 0,
           }}
         >
