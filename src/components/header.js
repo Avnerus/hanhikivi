@@ -8,13 +8,13 @@ const Header = ({ siteTitle }) => (
   <header
     style={{
       background: `white`,
-      marginBottom: `1.45rem`,
+        //   marginBottom: `1.45rem`,
     }}
   >
     <div
       style={{
         margin: `0 auto`,
-        maxWidth: 960,
+        maxWidth: 1440,
         padding: `1.45rem 1.0875rem`,
       }}
     >
@@ -27,7 +27,7 @@ const Header = ({ siteTitle }) => (
           }}
         >
             <img src={logo} style={{
-                width: '400px'
+                width: '354px'
             }}></img>
         </Link>
       </h1>

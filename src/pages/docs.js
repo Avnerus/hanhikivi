@@ -17,25 +17,40 @@ const DocBlock = styled.div`
     margin-right: 26px;
 `
 
+const DocTitle = styled.div`
+    color: #007649;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 15px;
+    line-height: 32px;
+    font-family: inconsolata;
+    font-size: 30px;
+`
+
 const DocsPage = ({data}) => (
   <Layout>
     <SEO title="Docs" />
     <section style={{
         backgroundColor: '#F7F2D0'
     }}>
-    <h1 style={{
-        color: "#007649"
-    }}>Docs</h1>
-        <DocsGrid>
-            {data.allMarkdownRemark.edges.map(doc => (
-              <DocBlock key={doc.node.id}>
-                  <Link
-                    to={doc.node.frontmatter.path}>
-                    {doc.node.frontmatter.title}
-                  </Link>
-              </DocBlock>
-            ))}
-        </DocsGrid>
+    <div style={{marginLeft: "35px"}}>
+        <h1 style={{
+            color: "#007649"
+        }}>Docs</h1>
+            <DocsGrid>
+                {data.allMarkdownRemark.edges.map(doc => (
+                  <Link key={doc.node.id}
+                      to={doc.node.frontmatter.path}
+                      style={{textDecoration: "none"}}>
+                      <DocBlock>
+                            <DocTitle>
+                                {doc.node.frontmatter.title}
+                            </DocTitle>
+                      </DocBlock>
+                   </Link>
+                ))}
+            </DocsGrid>
+    </div>
     </section>
   </Layout>
 )

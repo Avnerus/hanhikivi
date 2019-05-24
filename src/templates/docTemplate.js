@@ -1,6 +1,13 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
+import {Theme} from "../components/layout"
+import styled from "@emotion/styled"
+
+const DocContainer = styled.div`
+    background-color: ${Theme.docsBackgroundColor};
+    color: #007649;
+`
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -9,14 +16,14 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
     <Layout>
-      <div>
+      <DocContainer>
         <h1>{frontmatter.title}</h1>
         <h2>{frontmatter.date}</h2>
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
-      </div>
+      </DocContainer>
     </Layout>
   )
 }
