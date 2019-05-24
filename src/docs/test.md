@@ -3,6 +3,7 @@ path: "/docs/test"
 date: "2019-05-24"
 title: "This is a test doc to try all kinds of styles"
 abstract: "Hanhikivi is bad"
+category: "Test"
 ---
 
 # Test document

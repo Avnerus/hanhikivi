@@ -7,6 +7,7 @@ import styled from "@emotion/styled"
 const DocContainer = styled.div`
     background-color: ${Theme.docsBackgroundColor};
     color: #007649;
+    padding-top: 50px;
 `
 
 export default function Template({

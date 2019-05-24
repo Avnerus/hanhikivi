@@ -7,6 +7,8 @@ import SEO from "../components/seo"
 
 const DocsGrid = styled.div`
     display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
 `
 
 const DocBlock = styled.div`
@@ -14,35 +16,50 @@ const DocBlock = styled.div`
     height: 350px;
     border-style: solid;
     border-color: #007649;
-    margin-right: 26px;
+    margin-right: 25px;
+    margin-top: 20px;
 `
 
 const DocTitle = styled.div`
     color: #007649;
     font-weight: bold;
-    margin-top: 50px;
+    margin-top: 15px;
     margin-left: 15px;
     line-height: 32px;
     font-family: inconsolata;
     font-size: 30px;
+`
+const DocCategory = styled.div`
+    color: #B8B8B8;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+    text-transform: uppercase;
 `
 
 const DocsPage = ({data}) => (
   <Layout>
     <SEO title="Docs" />
     <section style={{
-        backgroundColor: '#F7F2D0'
+        backgroundColor: '#F7F2D0',
+        paddingTop: '80px'
     }}>
     <div style={{marginLeft: "35px"}}>
-        <h1 style={{
-            color: "#007649"
-        }}>Docs</h1>
+        <span style={{
+            color: "#007649",
+            fontFamily: 'Infini',
+            fontStyle: 'italic',
+            fontSize: 26
+        }}>Featured Documents</span>
             <DocsGrid>
                 {data.allMarkdownRemark.edges.map(doc => (
                   <Link key={doc.node.id}
                       to={doc.node.frontmatter.path}
                       style={{textDecoration: "none"}}>
                       <DocBlock>
+                            <DocCategory>
+                                {doc.node.frontmatter.category}
+                            </DocCategory>
                             <DocTitle>
                                 {doc.node.frontmatter.title}
                             </DocTitle>
@@ -68,6 +85,8 @@ export const pageQuery = graphql`
             title
             date
             abstract
+            category
+            tags
           }
         }
       }
