@@ -1,9 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
 import styled from "@emotion/styled"
+import { css } from '@emotion/core'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+
+import fileIcon from "../images/file.png"
 
 const DocsGrid = styled.div`
     display: flex;
@@ -18,6 +21,9 @@ const DocBlock = styled.div`
     border-color: #007649;
     margin-right: 25px;
     margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 `
 
 const DocTitle = styled.div`
@@ -35,6 +41,15 @@ const DocCategory = styled.div`
     margin-left: 15px;
     margin-top: 15px;
     text-transform: uppercase;
+`
+const DocFooter = styled.div`
+    display: flex;
+    color: #B8B8B8;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-right: 20px;
 `
 
 const DocsPage = ({data}) => (
@@ -57,12 +72,25 @@ const DocsPage = ({data}) => (
                       to={doc.node.frontmatter.path}
                       style={{textDecoration: "none"}}>
                       <DocBlock>
-                            <DocCategory>
-                                {doc.node.frontmatter.category}
-                            </DocCategory>
-                            <DocTitle>
-                                {doc.node.frontmatter.title}
-                            </DocTitle>
+                            <div>
+                                <DocCategory>
+                                    {doc.node.frontmatter.category}
+                                </DocCategory>
+                                <DocTitle>
+                                    {doc.node.frontmatter.title}
+                                </DocTitle>
+                            </div>
+                            <DocFooter>
+                                <div
+                                    css={css`
+                                    `}
+                                >
+                                > More Info
+                                </div>
+                                <div>
+                                    <img style={{paddingBottom: 0}} src={fileIcon}></img>
+                                </div>
+                            </DocFooter>
                       </DocBlock>
                    </Link>
                 ))}
