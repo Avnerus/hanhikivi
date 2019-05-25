@@ -9,3 +9,6 @@ author: "Tiina Prittinen"
 ---
 
 ## Aikajanatyöpaja 
+
+Aikajanatyöpajassa käytiin läpi koettua historiaa Pyhäjoen ydinvoimalahankkeeseen liittyen. Paikallaolijoilla oli hyvin erilaisia kokemuksia vuosien varrelta, ja aikajanalle aseteltiin esimerkiksi kansalaistoimintaa, ympäristömuutoksia ja poliittisia päätöksiä.
+![raahe-event-hanhikivi-timeline](./images/raahe-event-hanhikivi-timeline.jpg)
