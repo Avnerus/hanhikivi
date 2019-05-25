@@ -25,6 +25,11 @@ export default function Template({
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
+        <Disqus
+          identifier={id}
+          title={'Doc: ' + frontmatter.title}
+          url={`http://hanhikivi.center${frontmatter.path}`}
+        />
       </DocContainer>
     </Layout>
   )

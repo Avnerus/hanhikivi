@@ -49,6 +49,12 @@ module.exports = {
       ],
     },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `hanhikivi`
+      }
+    },
     `gatsby-plugin-emotion`,
     `gatsby-plugin-catch-links`
     // this (optional) plugin enables Progressive Web App + Offline functionality
