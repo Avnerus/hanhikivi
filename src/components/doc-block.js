@@ -10,10 +10,11 @@ const DocBlock = styled.div`
     border-style: solid;
     border-color: #007649;
     margin-right: 25px;
-    margin-top: 20px;
+    margin-bottom: 20px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #F7F2D0;
 `
 
 const DocTitle = styled.div`
