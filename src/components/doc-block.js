@@ -5,7 +5,7 @@ import React from "react"
 import fileIcon from "../images/file.png"
 
 const DocBlock = styled.div`
-    width: 323px;
+    width: 330px;
     height: 350px;
     border-style: solid;
     border-color: #007649;
