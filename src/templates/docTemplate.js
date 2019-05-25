@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import {Theme} from "../components/layout"
 import styled from "@emotion/styled"
+import Disqus from 'gatsby-plugin-disqus'
 
 const DocContainer = styled.div`
     background-color: ${Theme.docsBackgroundColor};
@@ -14,7 +15,7 @@ export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data // data.markdownRemark holds our post data
-  const { frontmatter, html } = markdownRemark
+  const { frontmatter, html, id } = markdownRemark
   return (
     <Layout>
       <DocContainer>
@@ -33,6 +34,7 @@ export const pageQuery = graphql`
   query($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
+      id
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         path
