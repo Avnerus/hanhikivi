@@ -7,3 +7,6 @@ category: "Test"
 ---
 
 # Project Avner
+
+# View of Hanhikivi
+![hanhikivi](./images/hanhikivi.jpg)
