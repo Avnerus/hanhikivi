@@ -1,5 +1,5 @@
 ---
-path: "/news/raahe-event.md"
+path: "/news/raahe-event"
 date: "2019-05-26"
 title: "Raahen tapahtumassa mielenkiintoisia keskusteluja"
 abstract: "Raahen esityksissä ja työpajoissa kuultiin tietoa, kokemuksia ja katsottiin eteenpäin energiantuotannon tulevaisuuteen."
