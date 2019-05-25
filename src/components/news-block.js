@@ -5,12 +5,13 @@ import React from "react"
 import Img from 'gatsby-image'
 
 const NewsBlock = styled.div`
-    width: 650px;
-    height: 350px;
+    max-width: 680px;
+    min-height: 350px;
     margin-right: 20px;
     display: flex;
     flex-direction: row;
     margin-bottom: 20px;
+    flex-wrap: wrap;
 `
 const NewsDate = styled.div`
     color: #B8B8B8;
@@ -39,13 +40,13 @@ const NewsAbstract = styled.div`
 const NewsBlockComponent = (props) => (
     <NewsBlock>
         <div css={css`
-            width: 350px;
-            margin-right: 20px;
+            width: 330px;
+            margin-right: 40px;
         `}>
             <Img fluid={props.fluidImage} />
         </div>
         <div css={css`
-            width: 350px;
+            width: 270px;
         `}>
             <NewsDate>{props.date}</NewsDate>
             <NewsTitle>{props.title}</NewsTitle>
