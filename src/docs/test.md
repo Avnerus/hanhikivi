@@ -33,7 +33,7 @@ External image:
 
 Internal image:
 
-![hanhikivi-panorama](Hanhikivi_Panorama.png)
+![hanhikivi-panorama](./images/Hanhikivi_Panorama.png)
 
 
 [^1]: It's found on wikipedia

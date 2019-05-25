@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Hanhikivi Information Center`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `Website for the Hanhikivi Information Center`,
+    author: `@avnerus`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -18,6 +18,13 @@ module.exports = {
       options: {
         name: `docs`,
         path: `${__dirname}/src/docs`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `news`,
+        path: `${__dirname}/src/news`,
       },
     },
     `gatsby-transformer-sharp`,
