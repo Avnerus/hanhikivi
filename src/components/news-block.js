@@ -10,6 +10,7 @@ const NewsBlock = styled.div`
     margin-right: 20px;
     display: flex;
     flex-direction: row;
+    margin-bottom: 20px;
 `
 const NewsDate = styled.div`
     color: #B8B8B8;
