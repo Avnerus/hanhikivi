@@ -619,3 +619,35 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+@font-face {
+  font-family: 'Infini';
+  src: url('../fonts/infini-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Infini';
+  src: url('../fonts/infini-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Infini';
+  src: url('../fonts/infini-italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'inconsolata';
+  src: url('../fonts/Inconsolata-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'inconsolata';
+  src: url('../fonts/Inconsolata-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
