@@ -6,7 +6,7 @@ import Img from 'gatsby-image'
 
 const NewsBlock = styled.div`
     max-width: 680px;
-    min-height: 350px;
+    height: auto;
     margin-right: 40px;
     display: flex;
     flex-direction: row;
