@@ -42,5 +42,8 @@ Tiedotuskeskus Hanhikivi tarjoaa puitteet poikkitieteelliselle ja -taiteellisell
 
 – talolle tullessasi lue aina tarkemmin talon yhteisesti sovitut säännöt
 
+[When you come into the house](./files/instructions.rtf)
+
+
 
 <!-- Docs to Markdown version 1.0β17 -->
