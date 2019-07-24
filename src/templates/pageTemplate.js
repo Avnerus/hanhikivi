@@ -2,9 +2,8 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import styled from "@emotion/styled"
-import Disqus from 'gatsby-plugin-disqus'
 
-const NewsContainer = styled.div`
+const PageContainer = styled.div`
     background-color: white;
     color: black;
     padding-top: 50px;
@@ -17,19 +16,13 @@ export default function Template({
   const { frontmatter, html, id } = markdownRemark
   return (
     <Layout>
-      <NewsContainer>
+      <PageContainer>
         <h1>{frontmatter.title}</h1>
-        <h2>{frontmatter.date}</h2>
         <div
-          className="blog-post-content"
+          className="page-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
-        <Disqus
-          identifier={id}
-          title={'Doc: ' + frontmatter.title}
-          url={`http://hanhikivi.center${frontmatter.path}`}
-        />
-      </NewsContainer>
+      </PageContainer>
     </Layout>
   )
 }

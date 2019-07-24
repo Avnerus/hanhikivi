@@ -12,7 +12,8 @@ exports.createPages = ({ actions, graphql }) => {
 
   const templates = {
       'news' : path.resolve(`src/templates/newsTemplate.js`),
-      'docs':  path.resolve(`src/templates/docTemplate.js`)
+      'docs':  path.resolve(`src/templates/docTemplate.js`),
+      'pages':  path.resolve(`src/templates/pageTemplate.js`)
   }
 
   return graphql(`
@@ -25,6 +26,7 @@ exports.createPages = ({ actions, graphql }) => {
           node {
             frontmatter {
               path
+              category
             }
           }
         }
@@ -36,7 +38,10 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      const category = node.frontmatter.path.match(/^\/(\w+)\//)[1];
+      console.log(node.frontmatter.path);
+      console.log(node.frontmatter.category);
+      const category = templates[node.frontmatter.category] ? node.frontmatter.category :
+            node.frontmatter.path.match(/^\/(\w+)\//)[1];
       createPage({
         path: node.frontmatter.path,
         component: templates[category],

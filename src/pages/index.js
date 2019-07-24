@@ -32,7 +32,7 @@ const IndexPage = ({data}) => (
                     abstract={doc.node.frontmatter.abstract}
                 >
                 </NewsBlock>
-            } else {
+            } else if (category == "docs") {
                 block = <DocBlock
                     category={doc.node.frontmatter.category}
                     title={doc.node.frontmatter.title}
@@ -56,6 +56,7 @@ export const pageQuery = graphql`
   query IndexGlobalQuery {
       allMarkdownRemark(limit: 10
       sort: {fields: [frontmatter___date], order: DESC}
+      filter: {frontmatter: {category: {ne: "pages"}}}
     ) {
       edges {
         node {

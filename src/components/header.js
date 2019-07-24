@@ -42,45 +42,54 @@ const Header = ({ siteTitle }) => (
         alignItems: 'center'
       }}
     >
-    <Link
-      to="/"
-      style={{
-        color: `black`,
-        textDecoration: `none`,
-      }}
-    >
-        <img src={logo} style={{
-            width: '354px',
-            marginRight: '100px'
-        }}></img>
-    </Link>
-    <Separator/>
-    <Link
-      to="/"
-      style={{
-        textDecoration: `none`,
-      }}
-    >
-        <MenuTitle>Home</MenuTitle>
-    </Link>
-    <Separator/>
-    <Link
-      to="/news"
-      style={{
-        textDecoration: `none`,
-      }}
-    >
-        <MenuTitle>News</MenuTitle>
-    </Link>
-    <Separator/>
-    <Link
-      to="/docs"
-      style={{
-        textDecoration: `none`,
-      }}
-    >
-        <MenuTitle>Docs</MenuTitle>
-    </Link>
+        <Link
+          to="/"
+          style={{
+            color: `black`,
+            textDecoration: `none`,
+          }}
+        >
+            <img src={logo} style={{
+                width: '354px',
+                marginRight: '100px'
+            }}></img>
+        </Link>
+        <Separator/>
+        <Link
+          to="/"
+          style={{
+            textDecoration: `none`,
+          }}
+        >
+            <MenuTitle>Home</MenuTitle>
+        </Link>
+        <Separator/>
+        <Link
+          to="/news"
+          style={{
+            textDecoration: `none`,
+          }}
+        >
+            <MenuTitle>News</MenuTitle>
+        </Link>
+        <Separator/>
+        <Link
+          to="/docs"
+          style={{
+            textDecoration: `none`,
+          }}
+        >
+            <MenuTitle>Docs</MenuTitle>
+        </Link>
+        <Separator/>
+        <Link
+          to="/about"
+          style={{
+            textDecoration: `none`,
+          }}
+        >
+            <MenuTitle>About</MenuTitle>
+        </Link>
     </div>
   </header>
 )
