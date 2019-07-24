@@ -8,6 +8,7 @@ const NewsContainer = styled.div`
     background-color: white;
     color: black;
     padding-top: 50px;
+    max-width: 800px;
 `
 
 export default function Template({

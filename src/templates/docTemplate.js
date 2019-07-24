@@ -9,6 +9,8 @@ const DocContainer = styled.div`
     background-color: ${Theme.docsBackgroundColor};
     color: #007649;
     padding-top: 50px;
+    width: 800px;
+    max-width: 1200px;
 `
 
 export default function Template({
