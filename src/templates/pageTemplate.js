@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import styled from "@emotion/styled"
+import SEO from "../components/seo"
 
 import rehypeReact from "rehype-react"
 import SubscribeComponent from "../components/subscribe"
@@ -25,6 +26,7 @@ export default function Template({
   const { frontmatter, htmlAst, id } = markdownRemark
   return (
     <Layout>
+      <SEO title={frontmatter.title} />
       <PageContainer>
         <h1>{frontmatter.title}</h1>
         <div
