@@ -32,7 +32,13 @@ module.exports = {
           options: {
           name: `pages`,
           path: `${__dirname}/src/pages`,
-    }
+            },
+    },
+    {
+        resolve: 'gatsby-plugin-mailchimp',
+        options: {
+            endpoint: 'https://center.us3.list-manage.com/subscribe/post?u=40c954d9f0bfbecef4a7c0139&amp;id=a0454126d4', // add your MC list endpoint here; see instructions below
+        }
     },
     `gatsby-transformer-sharp`,
     `gatsby-transformer-remark`,
@@ -60,6 +66,7 @@ module.exports = {
             maxWidth: 590,
           },
         },
+      "gatsby-remark-component"
       ],
     },
     },
