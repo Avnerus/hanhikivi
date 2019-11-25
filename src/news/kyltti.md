@@ -10,9 +10,7 @@ author: "Senni Lappalainen"
 
 # Congratulations!
 
-## Time to start working on content
-
-Pyhäjoella, Parhalahden kylässä, 8-tien varressa pohjoiseen päin mennessä on vasemmalla puolella paikka banderollille (koko n 3 m x1,5m). Viimevuoden kesällä siihen tehtiin uusi teksti, EI LUPAA YDINVOIMALLE.  Banderolli on tämän vuoden kevään jälkeen kaatunut ja on nyt maassa.
+## Pyhäjoella, Parhalahden kylässä, 8-tien varressa pohjoiseen päin mennessä on vasemmalla puolella paikka banderollille (koko n 3 m x1,5m). Viimevuoden kesällä siihen tehtiin uusi teksti, EI LUPAA YDINVOIMALLE.  Banderolli on tämän vuoden kevään jälkeen kaatunut ja on nyt maassa.
 Haluamme kuitenkin tehdä tuohon uuden banderollin kestävälle materiaalille. Ohessa ehdotus kuvapohjaksi. Lupa kuvan käyttöön on saatu. Nyt kaipaamme teiltä tekstiehdotuksia.
 
 - Ei lupaa Fennovoimalle! Ajetaan ydinvoima alas!
