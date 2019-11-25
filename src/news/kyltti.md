@@ -19,7 +19,7 @@ Meillä on lupa kuvan käyttöön ja taiteilija lisää haluamamme tekstin kuvaa
 Esimerkiksi? 
 - Ei lupaa Fennovoimalle! Ajetaan ydinvoima alas!
 - Ei lupaa ydinvoimalle! Yhteistyöllä Fennovoima alas!
-- 
+- sinun ehdotuksesi? 
 
 
 ![Hanhi-johon teksti.jpg](./images/blogi1.jpg)
