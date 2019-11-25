@@ -19,5 +19,5 @@ Haluamme kuitenkin tehdä tuohon uuden banderollin kestävälle materiaalille. O
 
 ![Kyltti 4-tie.jpg](./images/Ei lupaa ydinvoimalle.jpg) 
 
-![Hanhi-johon teksti.jpg](./images/hanhikivi-blogi1(1).jpg)
+![Hanhi-johon teksti.jpg](./images/blogi1.jpg)
 
