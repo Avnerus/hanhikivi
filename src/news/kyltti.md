@@ -1,11 +1,11 @@
 ---
-path: "/news/test"
-date: "2019-05-24"
-title: "This is just a test news item (updated!)"
-abstract: "Here you can place the abstract of the news article"
+path: "/news/kylttiteksti"
+date: "2019-11-25"
+title: "Mikä teksti sopisi kylttiin 4-tien varteen"
+abstract: "Kerro ehdotuksesi"
 category: "Test"
-image: "./images/test.png"
-author: "Avner Peled"
+image: "./images/Ei lupaa ydinvoimalle.jpg"
+author: "Senni Lappalainen"
 ---
 
 # Congratulations!
