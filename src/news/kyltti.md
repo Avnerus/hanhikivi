@@ -24,7 +24,7 @@ Esimerkiksi?
 
 ![Hanhi-johon teksti.jpg](./images/blogi1.jpg)
 
-Banderollin koko on n. 3 m x1,5m)
+Banderollin koko on n. 3 m x1,5m
 
 ![Kyltti 4-tie.jpg](./images/Ei lupaa ydinvoimalle.jpg) 
 
