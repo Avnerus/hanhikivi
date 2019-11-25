@@ -8,14 +8,15 @@ image: "./images/Ei lupaa ydinvoimalle.jpg"
 author: "Senni Lappalainen"
 ---
 
-# Congratulations!
+Pyhäjoella, Parhalahden kylässä, 8-tien varressa pohjoiseen päin mennessä on vasemmalla puolella paikka banderollille (koko n 3 m x1,5m). Viimevuoden kesällä siihen tehtiin uusi teksti, EI LUPAA YDINVOIMALLE.  Banderolli on tämän vuoden kevään jälkeen kaatunut ja on nyt maassa.
 
-## Pyhäjoella, Parhalahden kylässä, 8-tien varressa pohjoiseen päin mennessä on vasemmalla puolella paikka banderollille (koko n 3 m x1,5m). Viimevuoden kesällä siihen tehtiin uusi teksti, EI LUPAA YDINVOIMALLE.  Banderolli on tämän vuoden kevään jälkeen kaatunut ja on nyt maassa.
-Haluamme kuitenkin tehdä tuohon uuden banderollin kestävälle materiaalille. Ohessa ehdotus kuvapohjaksi. Lupa kuvan käyttöön on saatu. Nyt kaipaamme teiltä tekstiehdotuksia.
+![Kyltti 4-tie.jpg](./images/Ei lupaa ydinvoimalle.jpg) 
+
+## Haluamme kuitenkin tehdä tuohon uuden banderollin kestävälle materiaalille. Ohessa ehdotus kuvapohjaksi. Lupa kuvan käyttöön on saatu. Nyt kaipaamme teiltä tekstiehdotuksia.
 
 - Ei lupaa Fennovoimalle! Ajetaan ydinvoima alas!
 - Ei lupaa ydinvoimalle! Yhteistyöllä Fennovoima alas!
 - jne.
 
-![Kyltti 4-tie.jpg](./images/Ei lupaa ydinvoimalle.jpg) ![Hanhi-johon teksti.jpg](./images/blogi1.jpg)
+![Hanhi-johon teksti.jpg](./images/blogi1.jpg)
 
