@@ -8,7 +8,7 @@ image: "./images/Ei lupaa ydinvoimalle.jpg"
 author: "Senni Lappalainen"
 ---
 
-Pyhäjoella, Parhalahden kylässä, 8-tien varressa pohjoiseen päin mennessä on vasemmalla puolella paikka banderollille.  Banderolli on tämän vuoden kevään jälkeen kaatunut ja on nyt maassa. Banderollin koko on(koko n 3 m x1,5m)
+Pyhäjoella, Parhalahden kylässä, 8-tien varressa pohjoiseen päin mennessä on vasemmalla puolella paikka banderollille.  Banderolli on tämän vuoden kevään jälkeen kaatunut ja on nyt maassa. 
 
 ## Olemme päättäneet uusia banderollin. Mikä olisi viestimme? 
 
@@ -23,6 +23,8 @@ Esimerkiksi?
 
 
 ![Hanhi-johon teksti.jpg](./images/blogi1.jpg)
+
+Banderollin koko on n. 3 m x1,5m)
 
 ![Kyltti 4-tie.jpg](./images/Ei lupaa ydinvoimalle.jpg) 
 
