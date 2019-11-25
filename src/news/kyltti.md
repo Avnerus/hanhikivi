@@ -17,7 +17,5 @@ Haluamme kuitenkin tehdä tuohon uuden banderollin kestävälle materiaalille. O
 - Ei lupaa ydinvoimalle! Yhteistyöllä Fennovoima alas!
 - jne.
 
-![Kyltti 4-tie.jpg](./images/Ei lupaa ydinvoimalle.jpg) 
-
-![Hanhi-johon teksti.jpg](./images/blogi1.jpg)
+![Kyltti 4-tie.jpg](./images/Ei lupaa ydinvoimalle.jpg) ![Hanhi-johon teksti.jpg](./images/blogi1.jpg)
 
