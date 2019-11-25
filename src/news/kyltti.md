@@ -22,6 +22,7 @@ Esimerkiksi?
 - sinun ehdotuksesi? 
 
 
+
 ![Hanhi-johon teksti.jpg](./images/blogi1.jpg)
 
 Banderollin koko on n. 3 m x1,5m
