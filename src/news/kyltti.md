@@ -16,7 +16,7 @@ Banderolli tehdään kestävälle materiaalille ja alla oleva hanhi on ehdotus k
 
 Meillä on lupa kuvan käyttöön ja taiteilija lisää haluamamme tekstin kuvaan. Nyt kaipaamme teiltä tekstiehdotuksia. 
 
-Esimerkiksi? 
+Esimerkiksi:  
 - Ei lupaa Fennovoimalle! Ajetaan ydinvoima alas!
 - Ei lupaa ydinvoimalle! Yhteistyöllä Fennovoima alas!
 - sinun ehdotuksesi? 
