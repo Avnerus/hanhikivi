@@ -39,6 +39,7 @@ Even our researcher friend seems to hesitate,
 Is he not afraid of nuclear waste?
 
  
+ 
 
 Billion euros project,
 
@@ -60,6 +61,7 @@ Growing dependency on a military power,
 
 Is the age of autonomy over?
 
+ 
  
 
 We can fix climate change,
@@ -83,6 +85,7 @@ For a biased political foreplay,
 Goose slayed, put on a tray,
 
  
+ 
 
 Do not shoot the white pigeon,
 
@@ -103,6 +106,7 @@ Global citizens give birth,
 For hope of fair tomorrow,
 
 Together me and my bro,
+
 
 
 Poetry for Friday by
