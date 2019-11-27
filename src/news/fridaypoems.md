@@ -8,7 +8,6 @@ image: "./images/"billioneuros.jpg"
 author: "Senni Lappalainen"
 ---
 
-Photo: Alexa https://stocksnap.io/author/34631
 
 
 
@@ -124,3 +123,6 @@ _Together me and my bro,_
 Poetry for Friday by
 Simbad
 Visitor at the Information Center Hanhikivi  
+
+Photo: Alexa https://stocksnap.io/author/34631
+
