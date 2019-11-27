@@ -4,7 +4,7 @@ date: "2019-11-26"
 title: "Fridaypoem29-11"
 abstract: "poetry"
 category: "Test"
-image: ""
+image: "billioneuros.jpg"
 author: "Senni Lappalainen"
 ---
 
