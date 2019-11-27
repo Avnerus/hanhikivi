@@ -4,7 +4,7 @@ date: "2019-11-27"
 title: "Poem: Alternatives?"
 abstract: "Poem: Alternatives?"
 category: "Test"
-image: "./images/"DRAGON.JPG"
+image: "./images/DRAGON.JPG"
 author: "Senni Lappalainen"
 ---
 
