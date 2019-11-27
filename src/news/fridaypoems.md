@@ -2,7 +2,7 @@
 path: "/news/alternatives.md"
 date: "2019-11-27"
 title: "Poem: Alternatives?"
-abstract: "poetry"
+abstract: "Poem: Alternatives?"
 category: "Test"
 image: "./images/"DRAGON.JPG"
 author: "Senni Lappalainen"
