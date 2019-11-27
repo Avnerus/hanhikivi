@@ -8,8 +8,6 @@ image: "./images/"DRAGON.JPG"
 author: "Senni Lappalainen"
 ---
 
-
-
 # Alternatives?
 
 _It is gonna be nuclear power,_
