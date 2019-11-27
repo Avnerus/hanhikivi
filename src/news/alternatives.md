@@ -10,9 +10,9 @@ author: "Senni Lappalainen"
 
 # Alternatives?
 
-_It is gonna be nuclear power,_
-_Tears run like fall-out shower,_
-_Citizen votes denied,_
+_It is gonna be nuclear power,_ \
+_Tears run like fall-out shower,_ \
+_Citizen votes denied,_ \
 _Land owners cried,_
 _Planning meetings with quasi participation,_
 _Rubber stamps for the only formulation,_
