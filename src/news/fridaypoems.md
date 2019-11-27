@@ -8,6 +8,10 @@ image: ""
 author: "Senni Lappalainen"
 ---
 
+Photo: Alexa https://stocksnap.io/author/34631
+
+
+
 # Alternatives?
 
 _It is gonna be nuclear power,_
