@@ -4,7 +4,7 @@ date: "2019-11-27"
 title: "Fridaypoem29-11"
 abstract: "poetry"
 category: "Test"
-image: "./images/"
+image: "./images/Sam_and_Katah_Kerson_dragon_workshop2015_HanhikiviCape.JPG"
 author: "Senni Lappalainen"
 ---
 
@@ -123,4 +123,4 @@ _Together me and my bro,_
 Poetry for Friday by
 Simo Sarkki, researcher at University of Oulu. See: https://www.oulu.fi/university/researcher/simo-sarkki
 
-
+Photo by Tiina Prittinen, Dragon workshop 2015, Hanhikivi Cape by Sam and Katah Kerson
