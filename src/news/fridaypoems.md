@@ -10,102 +10,102 @@ author: "Senni Lappalainen"
 
 # Alternatives?
 
-It is gonna be nuclear power,
+_It is gonna be nuclear power,_
 
-Tears run like fall-out shower,
+_Tears run like fall-out shower,_
 
-Citizen votes denied,
+_Citizen votes denied,_
 
-Land owners cried,
+_Land owners cried,_
 
-Planning meetings with quasi participation,
+_Planning meetings with quasi participation,_
 
-Rubber stamps for the only formulation,
+_Rubber stamps for the only formulation,_
 
 _It’s not a fair fight,_
 
-_Only one option is perceived as right,
+_Only one option is perceived as right,_
 
-_At the cabinets alternatives non-existent,
+_At the cabinets alternatives non-existent,_
 
-_How could the suits be fought from a tent?
+_How could the suits be fought from a tent?_
 
-_When opponents are perceived as option zero,
+_When opponents are perceived as option zero,_
 
-_Your neighbour turns to anti-hero,
+_Your neighbour turns to anti-hero,_
 
-_Even our researcher friend seems to hesitate,
+_Even our researcher friend seems to hesitate,_
 
-_Is he not afraid of nuclear waste?
-
- 
- 
-
-_Billion euros project,
-
-_High hopes on local employment,
-
-_Should make the region thrive,
-
-_Keep the villages alive,
-
-_Media hype around economic opportunities,
-
-_Promoted as common good without alternatives,
-
-_Yet path towards national energy self-sufficiency,
-
-_Turns into security emergency,
-
-_Growing dependency on a military power,
-
-_Is the age of autonomy over?
+_Is he not afraid of nuclear waste?_
 
  
  
 
-_We can fix climate change,
+_Billion euros project,_
 
-_Never mind the marginalized rage,
+_High hopes on local employment,_
 
-_Already before the plant is up,
+_Should make the region thrive,_
 
-_People afraid even the local pub,
+_Keep the villages alive,_
 
-_Inside families rising fences,
+_Media hype around economic opportunities,_
 
-_In vain struggles against senses,
+_Promoted as common good without alternatives,_
 
-_Opponents targeted by a witch hunt,
+_Yet path towards national energy self-sufficiency,_
 
-_Is there really a social warrant,
+_Turns into security emergency,_
 
-_For a biased political foreplay,
+_Growing dependency on a military power,_
 
-_Goose slayed, put on a tray,
+_Is the age of autonomy over?_
 
  
  
 
-_Do not shoot the white pigeon,
+_We can fix climate change,_
 
-_Imagine responsible growth at the region,
+_Never mind the marginalized rage,_
 
-_Thousand and one alternatives,
+_Already before the plant is up,_
 
-_There are also corporations like king of thieves,
+_People afraid even the local pub,_
 
-_Pros and cons in the ring,
+_Inside families rising fences,_
 
-_Exclusion was a below belt strategy to win,
+_In vain struggles against senses,_
 
-_Looks turn to earth,
+_Opponents targeted by a witch hunt,_
 
-_Global citizens give birth,
+_Is there really a social warrant,_
 
-_For hope of fair tomorrow,
+_For a biased political foreplay,_
 
-_Together me and my bro,
+_Goose slayed, put on a tray,_
+
+ 
+ 
+
+_Do not shoot the white pigeon,_
+
+_Imagine responsible growth at the region,_
+
+_Thousand and one alternatives,_
+
+_There are also corporations like king of thieves,_
+
+_Pros and cons in the ring,_
+
+_Exclusion was a below belt strategy to win,_
+
+_Looks turn to earth,_
+
+_Global citizens give birth,_
+
+_For hope of fair tomorrow,_
+
+_Together me and my bro,_
 
 
 
