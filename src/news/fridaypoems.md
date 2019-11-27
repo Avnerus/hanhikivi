@@ -4,7 +4,7 @@ date: "2019-11-27"
 title: "Fridaypoem29-11"
 abstract: "poetry"
 category: "Test"
-image: "./images/Sam_and_Katah_Kerson_dragon_workshop2015_HanhikiviCape.JPG"
+image: "./images/"DRAGON.JPG"
 author: "Senni Lappalainen"
 ---
 
