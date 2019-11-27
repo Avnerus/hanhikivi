@@ -4,7 +4,7 @@ date: "2019-11-27"
 title: "Fridaypoem29-11"
 abstract: "poetry"
 category: "Test"
-image: "./images/"billioneuros.jpg"
+image: "./images/"
 author: "Senni Lappalainen"
 ---
 
@@ -121,8 +121,6 @@ _Together me and my bro,_
 
 
 Poetry for Friday by
-Simbad
-Visitor at the Information Center Hanhikivi  
+Simo Sarkki, researcher at University of Oulu. See: https://www.oulu.fi/university/researcher/simo-sarkki
 
-Photo: Alexa https://stocksnap.io/author/34631
 
