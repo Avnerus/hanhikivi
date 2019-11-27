@@ -14,7 +14,7 @@ _It is gonna be nuclear power,
 
 _Tears run like fall-out shower,
 
-_Citizen votes denied,
+_Citizen_ votes denied,
 
 _Land owners cried,
 
