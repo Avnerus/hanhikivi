@@ -1,7 +1,7 @@
 ---
 path: "/news/alternatives.md"
 date: "2019-11-27"
-title: "Runo: Alternatives?"
+title: "Poem: Alternatives?"
 abstract: "poetry"
 category: "Test"
 image: "./images/"DRAGON.JPG"
