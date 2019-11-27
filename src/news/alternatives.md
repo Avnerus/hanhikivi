@@ -60,5 +60,5 @@ _Together me and my bro,_
 
 Poem by Simo Sarkki, researcher at University of Oulu. See: https://www.oulu.fi/university/researcher/simo-sarkki
 
-Photo by Tiina Prittinen: Dragon workshop 2015, Hanhikivi Cape by Sam and Katah Kerson
+Photo by Tiina Prittinen 2015, Dragon workshop, Hanhikivi Cape by Sam and Katah Kerson \
 Kuva Tiina Prittinen 2015, Sam ja Katah Kersonin työpajassa Pyhäjoen Hanhikivellä valmistunut teos
