@@ -1,7 +1,7 @@
 ---
-path: "/news/friday-poems.md"
+path: "/news/alternatives.md"
 date: "2019-11-27"
-title: "Fridaypoem29-11"
+title: "Runo: Alternatives?"
 abstract: "poetry"
 category: "Test"
 image: "./images/"DRAGON.JPG"
@@ -120,7 +120,7 @@ _Together me and my bro,_
 
 
 
-Poetry for Friday by
+Poem by
 Simo Sarkki, researcher at University of Oulu. See: https://www.oulu.fi/university/researcher/simo-sarkki
 
-Photo by Tiina Prittinen, Dragon workshop 2015, Hanhikivi Cape by Sam and Katah Kerson
+Photo by Tiina Prittinen: Dragon workshop 2015, Hanhikivi Cape by Sam and Katah Kerson
