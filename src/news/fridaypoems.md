@@ -40,6 +40,8 @@ _Is he not afraid of nuclear waste?_
 
  
  
+ 
+ 
 
 _Billion euros project,_
 
@@ -64,6 +66,8 @@ _Is the age of autonomy over?_
  
  
 
+
+
 _We can fix climate change,_
 
 _Never mind the marginalized rage,_
@@ -86,6 +90,8 @@ _Goose slayed, put on a tray,_
 
  
  
+ 
+ 
 
 _Do not shoot the white pigeon,_
 
@@ -106,6 +112,8 @@ _Global citizens give birth,_
 _For hope of fair tomorrow,_
 
 _Together me and my bro,_
+
+
 
 
 
