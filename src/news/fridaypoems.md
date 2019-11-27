@@ -4,25 +4,25 @@ date: "2019-11-26"
 title: "Fridaypoem29-11"
 abstract: "poetry"
 category: "Test"
-image: 
+image: ""
 author: "Senni Lappalainen"
 ---
 
 # Alternatives?
 
-_It is gonna be nuclear power,
+It is gonna be nuclear power,
 
-_Tears run like fall-out shower,
+Tears run like fall-out shower,
 
-_Citizen_ votes denied,
+Citizen votes denied,
 
-_Land owners cried,
+Land owners cried,
 
-_Planning meetings with quasi participation,
+Planning meetings with quasi participation,
 
-_Rubber stamps for the only formulation,
+Rubber stamps for the only formulation,
 
-_It’s not a fair fight,
+_It’s not a fair fight,_
 
 _Only one option is perceived as right,
 
