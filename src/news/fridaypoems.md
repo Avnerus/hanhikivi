@@ -1,6 +1,6 @@
 ---
 path: "/news/friday-poems.md"
-date: "2019-11-26"
+date: "2019-11-27"
 title: "Fridaypoem29-11"
 abstract: "poetry"
 category: "Test"
