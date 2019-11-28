@@ -25,7 +25,7 @@ Esimerkiksi:
 
 ![Hanhi-johon teksti.jpg](./images/blogi1.jpg)
 
-Banderollin koko on n. 3 m x1,5m
+Banderollin koko on n. k. 128cem lev. 250 cm, josta kuvitus ja teksti n. k. 105cm lev. 230cm
 
 ![Kyltti 4-tie.jpg](./images/Ei lupaa ydinvoimalle.jpg) 
 
