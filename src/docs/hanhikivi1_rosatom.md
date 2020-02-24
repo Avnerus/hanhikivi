@@ -4,7 +4,7 @@ date: "2020-02-24"
 title: "Hanhikivi1 - Rosatom. Maarit Nermes"
 abstract: "Mikä on Hanhikiven takana oleva Rosatom?"
 category: "Hanhikivi1"
-tags: "Hanhikivi1"
+tags: ["Hanhikivi1"]
 ---
 
 # ROSATOMIN SUURISUUNTAISET HANKKEET EIVÄT EHKÄ TOTEUDU KOSKAAN
