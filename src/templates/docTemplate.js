@@ -11,6 +11,11 @@ const DocContainer = styled.div`
     padding-top: 50px;
     width: 1200px;
     max-width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    & .gatsby-resp-image-wrapper {
+      margin-left: 0 !important;
+    }
 `
 
 export default function Template({

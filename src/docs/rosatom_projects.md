@@ -4,8 +4,8 @@ date: "2020-02-24"
 title: "Rosatom suurisuuntaiset hankkeet"
 abstract: "Rosatomilla on vireillä paljon, mutta tekeillä vähän"
 category: "Rosatom"
+tags: ["rosatom"]
 ---
-
 # ROSATOMIN SUURISUUNTAISET HANKKEET EIVÄT EHKÄ TOTEUDU KOSKAAN
 
 ## Rosatomilla on vireillä paljon, mutta tekeillä vähän
@@ -31,7 +31,7 @@ Pohjimmiltaan atomivoiman riskejä ei voida millään teknisillä uudistuksilla 
 
 Venäjä pelaa kuitenkin aikamoista taloudellista hazardipeliä lainaamalla avokätisesti atomivoimahankkeisiin venäläistä rahaa edullisin ehdoin. Mistä varat tarkalleen ottaen tulevat, ei ole aivan selvää, koska ydinvoima-asioissa ei olla erityisen avoimia. Todennäköisesti ainakin osa varoista tulee Rosatomin ja Kremlin oman pankin, Sberbankin kautta. Suomen Hanhikiven 2,4 miljardin euron venäläinen pääoma on peräisin eläkejärjestelmästä, Venäjä hyvinvointirahastosta. Venäjä on sitoutunut noin 90 miljardin dollarin edestä luotottamaan ja sijoittamaan ydinvoimahankkeisiin maan ulkopuolella. Isolla valtiolla on tietenkin enemmänkin varoja ja luonnonvaroja, joilla valuuttaa voi hankkia lisää. Maan elinkeinoelämä pohjautuu kuitenkin vanhan teollisen maailman innovaatioihin, jotka ovat tulossa tiensä päähän seuraavien vuosikymmenten aikana.
 
-![akkuyu](./images/akkuyu.jpg)
+![akkuyu](./images/akkuyu.jpg "Akkuyu nuclear powerplant in Turkey")
 
 Turkissa venäläisyhtiö noudattaa erityisen kallista liiketoimintamallia rakentamalla Akkuyun ydinvoimalaa ns. BOO (Build-Own-Operate) -mallilla. Ydinvoimalan rakentaa, omistaa ja käyttää Rosatom, jolle Turkin valtio on taannut takuuhinnan. Voimalan hinta on yli 20 miljardia euroa. Jopa venäläisten asiantuntijoiden mukaan Rosatom tuskin tulee käyttämään kallista BOO-mallia enää atomimyllykaupoissa. Todennäköisesti siksi Jordania perui voimalahankkeensa. Nyt Rosatom kauppaa aurinkoiseen ja konfliktialueiden ympäröimään Lähi-idän maahan muodikkaita pienydinvoimaloita (Small Modular Reactor,SMR).
 
