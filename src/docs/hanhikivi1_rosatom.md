@@ -7,6 +7,8 @@ category: "Hanhikivi1"
 tags: "Hanhikivi1"
 ---
 
+ROSATOMIN SUURISUUNTAISET HANKKEET EIVÄT EHKÄ TOTEUDU KOSKAAN
+
 HANHIKIVIKI ON JO 12 VUOTTA MYÖHÄSSÄ
 
 Mikä on Hanhikiven takana oleva Rosatom?
