@@ -1,7 +1,7 @@
 ---
 path: "/docs/rosatom_projects"
 date: "2020-02-24"
-title: "rosatom suurisuuntaiset hankkeet"
+title: "Rosatom suurisuuntaiset hankkeet"
 abstract: "Rosatomilla on vireillä paljon, mutta tekeillä vähän"
 category: "Rosatom"
 ---
