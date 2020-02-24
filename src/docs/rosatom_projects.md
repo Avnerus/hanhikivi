@@ -31,6 +31,8 @@ Pohjimmiltaan atomivoiman riskejä ei voida millään teknisillä uudistuksilla 
 
 Venäjä pelaa kuitenkin aikamoista taloudellista hazardipeliä lainaamalla avokätisesti atomivoimahankkeisiin venäläistä rahaa edullisin ehdoin. Mistä varat tarkalleen ottaen tulevat, ei ole aivan selvää, koska ydinvoima-asioissa ei olla erityisen avoimia. Todennäköisesti ainakin osa varoista tulee Rosatomin ja Kremlin oman pankin, Sberbankin kautta. Suomen Hanhikiven 2,4 miljardin euron venäläinen pääoma on peräisin eläkejärjestelmästä, Venäjä hyvinvointirahastosta. Venäjä on sitoutunut noin 90 miljardin dollarin edestä luotottamaan ja sijoittamaan ydinvoimahankkeisiin maan ulkopuolella. Isolla valtiolla on tietenkin enemmänkin varoja ja luonnonvaroja, joilla valuuttaa voi hankkia lisää. Maan elinkeinoelämä pohjautuu kuitenkin vanhan teollisen maailman innovaatioihin, jotka ovat tulossa tiensä päähän seuraavien vuosikymmenten aikana.
 
+![akkuyu](./images/akkuyu.jpg)
+
 Turkissa venäläisyhtiö noudattaa erityisen kallista liiketoimintamallia rakentamalla Akkuyun ydinvoimalaa ns. BOO (Build-Own-Operate) -mallilla. Ydinvoimalan rakentaa, omistaa ja käyttää Rosatom, jolle Turkin valtio on taannut takuuhinnan. Voimalan hinta on yli 20 miljardia euroa. Jopa venäläisten asiantuntijoiden mukaan Rosatom tuskin tulee käyttämään kallista BOO-mallia enää atomimyllykaupoissa. Todennäköisesti siksi Jordania perui voimalahankkeensa. Nyt Rosatom kauppaa aurinkoiseen ja konfliktialueiden ympäröimään Lähi-idän maahan muodikkaita pienydinvoimaloita (Small Modular Reactor,SMR).
 
 Geopoliittisesti huolestuttavin on Turkin Akkuyun ydinvoimalan BOO-malli, jossa Rosatom toimii vieraalla maaperällä voimalan omistajana ja operaattorina. Tähän ovat kiinnittäneet huomiota myös eräät yhdysvaltalaiset ydinturva-asiantuntijat. Nato-maassa (ja maanjäristyksien riskialueella) sijaitseva venäläinen ”rauhanomainen” atomivoimala ei ole juuri herättänyt huolta länsimaissa, vaikka se antaa Venäjälle hyvän (teko)syyn tulla Turkkiin ”puolustamaan” omaisuuttaan. Suomen Hanhikiven malli on myös (geo)poliittisesti ongelmallinen, koska venäläiset omistavat Fennovoimasta leijonanosan (34%). Lisäksi se on rahoitettu venäläisten eläkevaroilla, jolloin intressi puolustaa omistusta on suuri.
@@ -49,4 +51,4 @@ Kirjoittaja on tutkiva toimittaja ja tietokirjailija, joka on kirjoittanut mm. y
 
 Aiheesta on tulossa tammikuussa 2020 laajempi sähköinen kirjanen (epub), jonka voi ladata ilmaiseksi kustantajan sivustolta: www.nomerta.net. Lisätietoja: info@nomerta.net. 
 
-![hanhikivi](./images/hanhikivi.jpg)
+
