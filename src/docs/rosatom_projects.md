@@ -48,6 +48,7 @@ Vaikka Rosatom hallitsee kansainvälisiä ydinvoimalamarkkinoita avokätisen rah
 
 ****************
 Maarit Nermes
+
 Kirjoittaja on tutkiva toimittaja ja tietokirjailija, joka on kirjoittanut mm. ydinvoimataloutta käsittelevän Avustetut atomimyllyt -kirjan. Koulutukseltaan hän on diplomi-insinööri ja digitaalisen median luonnontieteiden kandidaatti.
 
 Aiheesta on tulossa tammikuussa 2020 laajempi sähköinen kirjanen (epub), jonka voi ladata ilmaiseksi kustantajan sivustolta: www.nomerta.net. Lisätietoja: info@nomerta.net. 
