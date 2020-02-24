@@ -37,7 +37,6 @@ Valtion pääomistaman Fortumin strategia näyttäytyy muutoinkin hieman hämär
 
 ## Edessä toinen Olkiluoto 3
 
-![olkiluoto3](./images/olkiluoto3.jpg "Olkiluoto")
 
 Hanhikivi 1:n voimalahankkeen tähdet ovat samassa asennossa kuin Olkiluoto 3:n. Piti saada edullinen voimala avaimet käteen -periaatteella, reaktori on uuden polveen pilotti ja asialla on rakennuttaja, jolla ei ole juurikaan kokemusta kansainvälisistä atomihankkeista. Hanhikivi 1 on ongelmallisempi, koska se rakennetaan aivan uuteen voimalapaikkaan eikä sen suomalaisilla omistajilla ei ole mitään kokemusta suuresta, kansainvälisestä ydinvoimalahankkeesta.
 
@@ -54,6 +53,7 @@ Kyse on enää siitä, ymmärtääkö ja pystyykö joku puhaltamaan pelin poikki
 
 *****************
 Maarit Nermes
+
 Kirjoittaja on tutkiva toimittaja ja tietokirjailija, joka on kirjoittanut mm. ydinvoimataloutta käsittelevän Avustetut atomimyllyt -kirjan. Koulutukseltaan hän on diplomi-insinööri ja digitaalisen median luonnontieteiden kandidaatti.
 
 Aiheesta on tulossa tammikuussa 2020 laajempi sähköinen kirjanen (epub), jonka voi ladata ilmaiseksi kustantajan sivustolta: www.nomerta.net. Lisätietoja: info@nomerta.net. 
