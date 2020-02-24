@@ -7,11 +7,11 @@ category: "Hanhikivi1"
 tags: "Hanhikivi1"
 ---
 
-ROSATOMIN SUURISUUNTAISET HANKKEET EIVÄT EHKÄ TOTEUDU KOSKAAN
+# ROSATOMIN SUURISUUNTAISET HANKKEET EIVÄT EHKÄ TOTEUDU KOSKAAN
 
-HANHIKIVIKI ON JO 12 VUOTTA MYÖHÄSSÄ
+## HANHIKIVIKI ON JO 12 VUOTTA MYÖHÄSSÄ
 
-Mikä on Hanhikiven takana oleva Rosatom?
+## Mikä on Hanhikiven takana oleva Rosatom?
 
 Venäjän Rosatomista on tullut maailman johtava ydinreaktorikauppias, koska länsimaiden yhtiöt ovat joutuneet sekä teknisiin että taloudellisiin ongelmiin. Ydinvoima ei kerta kaikkiaan ole sijoittajille kannattavaa liiketoimintaa, mikäli valtiot eivät tue merkittävästi, niin kuin Citibankin analyytikot totesivat jo vuonna 2009. Siksi Isossa-Britanniassa rakennetaan valtion massiivisten tukien siivittämänä kiinalais-ranskalaista Hinkley Point C -ydinvoimalaa. Yleensä ydinvoiman tuet on piilotettu epäsuoriin subventioihin joka käänteessä rakentamis-, tuotanto-, onnettomuus- ja jätehuoltovaihetta.
 
@@ -24,7 +24,7 @@ Rosatom on entinen Neuvostoliiton atomivoimaministeriö, mitä virkaa se Venäj�
 Rosatomin merkitystä ja asemaa kuvastaa se, että joulukuussa 2018 presidentti Vladimir Putin siunasi lain, jonka mukaan Rosatomille annettiin valtuudet kehittää ja hoitaa Pohjoisen jäämeren reittiä (en Northern Sea Route, NSR). Valtion atomiyhtiölle annettiin oikeudet suunnitella ehdotuksia valtion politiikaksi, jolla kehitetään Pohjoisen jäämeren reittiä ja tehdään siitä kestävällä tavalla toimiva. Rosatom osallistuu jopa navigoinnin varmistamiseen. Yhtiö saa tälle jäämeritoiminnalle täyden Venäjän valtion rahoituksen. Rosatomille on annettu lain myötä oikeus allekirjoittaa kaikki sopimukset koskien Pohjoisen jäämeren satamia ja niihin liittyvää infrastruktuuria. Esimerkiksi Rosatomin ensimmäisen kelluvan ydinvoimalan lauttarakenteet on valmistettu Pietarissa ja ydinteknologia on asennettu Kuolan niemimaalla. Se on kuljetettu Murmanskista Jäämeren kautta määräsatamaansa. Sen on tarkoitus aloittaa energiantuotanto tänä vuonna.
 
 
-Hanhikivi 1:n kivinen tie
+## Hanhikivi 1:n kivinen tie
 
 Hanhikiven ydinvoimalan tie vaikuttaa todella kiviseltä. Sen rakentamisen aloittaminen on jo moneen kertaa siirtynyt pääasiassa hallinnollis-teknisistä syistä. Suomen Säteilyturvakeskus, Stuk ei ole ollut tyytyväinen konsortion ja Rosatomin asiakirjoihin. Vuonna 2018 puhuttiin virallisestikin Fennovoiman hankkeen sähköntuotannon aloittamisesta vuonna 2028 – alun perin sähköntuotannon piti alkaa vuonna 2024. Ongelmia Stukin kanssa oli jo vuonna 2017. Osin syynä on turvallisuusvaatimusten kiristyminen Fukushiman onnettomuuden jälkeen. Voimalan piti ensimmäisen lupauksen mukaan olla käytössä vuonna 2017.
 
@@ -35,7 +35,9 @@ Fortumilla ei tunnu olevan kovinkaan suurta intressiä edistää Hanhikiven hank
 Valtion pääomistaman Fortumin strategia näyttäytyy muutoinkin hieman hämäränä saksalaisen hiilivoimayhtiö Uniperin ostoineen. Hallituksella taitaisi olla omistajaohjauskeskustelun paikka. Joidenkin arvioiden mukaan Uniper-kauppa on osa Hanhikiven Venäjä-koplausta, koska saksalaisfirman tytäryhtiö Unipro omistaa Venäjällä viisi suurta voimalaa, jotka tuottavat noin 5 % maan energiasta. Voimalat toimivat kaasulla ja kivihiilellä sekä yksi ruskohiilellä. Fortum pääsee kaupalla laajentamaan toimintaansa Venäjän markkinoilla, vaikka se ei saanutkaan havittelemiaan vesivoimaloita. Venäjän monopolin vastainen viranomainen hyväksyi Uniperin venäläisen tytäryhtiön Unipron suomalaiskaupan marraskuussa 2019.  
 
 
-Edessä toinen Olkiluoto 3
+## Edessä toinen Olkiluoto 3
+
+![olkiluoto3](./images/olkiluoto3.jpg)
 
 Hanhikivi 1:n voimalahankkeen tähdet ovat samassa asennossa kuin Olkiluoto 3:n. Piti saada edullinen voimala avaimet käteen -periaatteella, reaktori on uuden polveen pilotti ja asialla on rakennuttaja, jolla ei ole juurikaan kokemusta kansainvälisistä atomihankkeista. Hanhikivi 1 on ongelmallisempi, koska se rakennetaan aivan uuteen voimalapaikkaan eikä sen suomalaisilla omistajilla ei ole mitään kokemusta suuresta, kansainvälisestä ydinvoimalahankkeesta.
 
