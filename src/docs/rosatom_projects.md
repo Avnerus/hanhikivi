@@ -1,7 +1,7 @@
 ---
 path: "/docs/rosatom_projects"
 date: "2020-02-24"
-title: "Rosatom suurisuuntaiset hankkeet"
+title: "Rosatom suurisuuntaiset hankkeet, Maarit Nermes"
 abstract: "Rosatomilla on vireillä paljon, mutta tekeillä vähän"
 category: "Rosatom"
 tags: ["rosatom"]
