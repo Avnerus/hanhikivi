@@ -4,7 +4,7 @@ date: "2019-10-14-17"
 title: "Toinen SIMRA kokous"
 abstract: "Toinen SIMRA kokous Aberdeenissa"
 category: "Test"
-image: "./images/ABERDEEN.JPG"
+image: "./images/Aberdeen.JPG"
 author: "Lea Launokari"
 ---
 
