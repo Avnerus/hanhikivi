@@ -1,3 +1,4 @@
+---
 path: "/news/toinen_SIMRA_kokous.md"
 date: "2019-10-14-17"
 title: "Toinen SIMRA kokous"
@@ -5,6 +6,7 @@ abstract: "Toinen SIMRA kokous Aberdeenissa"
 category: "Test"
 image: "./images/ABERDEEN.JPG"
 author: "Lea Launokari"
+---
 
 #Toinen SIMRA:n sosiaalisen innovoinnin asiantuntijaryhmän kokous, Aberdeen, Iso-Britanniassa, 14.-17. Lokakuuta 2019.
 Suomesta osallistuivat Simo Sarkki, Oulun Yliopistosta ja Lea Launokari  Osuuskunta Noidanlukosta.
