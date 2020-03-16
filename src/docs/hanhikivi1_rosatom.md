@@ -5,6 +5,7 @@ title: "Hanhikivi1 - Rosatom"
 abstract: "Mikä on Hanhikiven takana oleva Rosatom?"
 category: "Hanhikivi1"
 tags: ["Hanhikivi1"]
+images: "olkiluoto 3.jpg"
 ---
 
 # ROSATOMIN SUURISUUNTAISET HANKKEET EIVÄT EHKÄ TOTEUDU KOSKAAN
@@ -36,6 +37,8 @@ Valtion pääomistaman Fortumin strategia näyttäytyy muutoinkin hieman hämär
 
 
 ## Edessä toinen Olkiluoto 3
+
+![](./olkiluoto 3.jpg)
 
 
 Hanhikivi 1:n voimalahankkeen tähdet ovat samassa asennossa kuin Olkiluoto 3:n. Piti saada edullinen voimala avaimet käteen -periaatteella, reaktori on uuden polveen pilotti ja asialla on rakennuttaja, jolla ei ole juurikaan kokemusta kansainvälisistä atomihankkeista. Hanhikivi 1 on ongelmallisempi, koska se rakennetaan aivan uuteen voimalapaikkaan eikä sen suomalaisilla omistajilla ei ole mitään kokemusta suuresta, kansainvälisestä ydinvoimalahankkeesta.
