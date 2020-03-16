@@ -5,7 +5,7 @@ title: "Hanhikivi1 - Rosatom"
 abstract: "Mikä on Hanhikiven takana oleva Rosatom?"
 category: "Hanhikivi1"
 tags: ["Hanhikivi1"]
-images: "olkiluoto 3.jpg"
+image: "./images/olkiluoto 3.JPG"
 ---
 
 # ROSATOMIN SUURISUUNTAISET HANKKEET EIVÄT EHKÄ TOTEUDU KOSKAAN
