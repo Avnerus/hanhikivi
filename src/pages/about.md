@@ -45,6 +45,8 @@ Tiedotuskeskus Hanhikivi tarjoaa puitteet poikkitieteelliselle ja -taiteellisell
 – talolle tullessasi lue aina tarkemmin talon yhteisesti sovitut säännöt
 
 
+
+
 ## PRINCIPLES AND AIMS OF INFORMATION CENTER HANHIKIVI:
 
 
