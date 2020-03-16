@@ -47,6 +47,7 @@ Tiedotuskeskus Hanhikivi tarjoaa puitteet poikkitieteelliselle ja -taiteellisell
 
 
 
+
 ## PRINCIPLES AND AIMS OF INFORMATION CENTER HANHIKIVI:
 
 
