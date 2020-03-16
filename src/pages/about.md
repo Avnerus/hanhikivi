@@ -163,7 +163,7 @@ In order to keep the meeting fluent and to make everyone feel they can freely ex
 
 
 
-[When you come into the house](./files/instructions.rtf)
+
 
 
 
