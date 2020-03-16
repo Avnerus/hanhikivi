@@ -45,7 +45,7 @@ Tiedotuskeskus Hanhikivi tarjoaa puitteet poikkitieteelliselle ja -taiteellisell
 – talolle tullessasi lue aina tarkemmin talon yhteisesti sovitut säännöt
 
 
-#### PRINCIPLES AND AIMS:
+## PRINCIPLES AND AIMS:
 
 INFORMATION CENTER HANHIKIVI
 
@@ -84,7 +84,7 @@ LIVING SIDE BY SIDE–INFORMATION ON PRACTICALITIES
 
 It is important, that everyone follows the common principles while staying in Information Center Hanhikivi. The purpose of this leaflet is to inform on some principal notes for people visiting the place. 
 
-Welcome in the Information Center –when you arrive:           
+### Welcome in the Information Center –when you arrive:           
 
 -everyone who stays in the house is always welcomed in the house and taken around and shown these principles. If you read this and you have some questions, please contact the house watch
 -you are very welcome to take part in the idea wall –with your vision, hope, dream or dystopia; poem, picture. You may reflect other ideas or have something completely out of the box.
@@ -92,7 +92,7 @@ Welcome in the Information Center –when you arrive:
 -there is a booklet in the house on how to heat the sauna, how to use the shutters of the sauna and oven, kitchen and livingroom: please be aware of safety at all times
 -be very careful with the keys and do not leave doors open when you leave the house
 
-Shopping
+### Shopping
 
 The kitchen is not one person’s responsibility (or domain) but everyone must take part. The arrangements of cooking for a couple or tens of people is not an easy task. The food supplies must be checked so that there is enough food and if something is needed, a trip to shop, local farm of dumpster diving is arranged. The cash money can be found in the house with specific instructions how to act with money and receipts.Contact house watch if you have questions.
 Dumpster diving has to be done somewhere else than in local store to avoid rumors but we could write to owners to develop a system for waste food.
