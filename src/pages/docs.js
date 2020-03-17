@@ -36,6 +36,7 @@ const DocsPage = ({data}) => (
                       <DocBlock
                           category={doc.node.frontmatter.category}
                           title={doc.node.frontmatter.title}
+                          fluidImage={doc.node.frontmatter.image ? doc.node.frontmatter.image.childImageSharp.fluid : null}
                       >
                       </DocBlock>
                    </Link>
@@ -62,6 +63,13 @@ export const pageQuery = graphql`
             abstract
             category
             tags
+            image {
+                childImageSharp {
+                   fluid(maxWidth: 350, maxHeight: 370) {
+                      ...GatsbyImageSharpFluid
+                   }
+               }
+            }
           }
         }
       }
