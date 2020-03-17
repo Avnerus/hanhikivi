@@ -1,11 +1,12 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
 import styled from "@emotion/styled"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 import DocBlock from "../components/doc-block"
+
 
 const DocsGrid = styled.div`
     display: flex;

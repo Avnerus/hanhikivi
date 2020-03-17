@@ -49,7 +49,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-            <img src={logo} style={{
+            <img alt="logo" src={logo} style={{
                 width: '354px',
                 marginRight: '100px'
             }}></img>

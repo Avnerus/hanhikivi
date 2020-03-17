@@ -1,6 +1,6 @@
 ---
 path: "/news/toinen_SIMRA_kokous.md"
-date: "2019-10-14-17"
+date: "2020-03-17"
 title: "Toinen SIMRA kokous"
 abstract: "Toinen SIMRA kokous Aberdeenissa"
 category: "Test"
@@ -15,4 +15,6 @@ Suomesta osallistuivat Simo Sarkki, Oulun Yliopistosta ja Lea Launokari  Osuusku
 Simo Sarkki and Lea Launokari participated from Finland.
 
 ![](./images/Aberdeen.JPG)
+
+[Download the presentation here](./files/SIMRA-SITT-Meeting-Aberdeen-October-2019-Lea Launokari-Noidanlukko.ppt)
 

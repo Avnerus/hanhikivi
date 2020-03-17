@@ -5,6 +5,8 @@ module.exports = {
     author: `@avnerus`,
   },
   plugins: [
+    `gatsby-plugin-sharp`,
+	`gatsby-transformer-sharp`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -40,9 +42,6 @@ module.exports = {
             endpoint: 'https://center.us3.list-manage.com/subscribe/post?u=40c954d9f0bfbecef4a7c0139&amp;id=a0454126d4', // add your MC list endpoint here; see instructions below
         }
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-transformer-remark`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -54,22 +53,32 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
         options: {
           plugins: [
-        {
-          resolve: `gatsby-remark-images`,
-          options: {
-            // It's important to specify the maxWidth (in pixels) of
-            // the content container as this plugin uses this as the
-            // base for generating different widths of each image.
-              maxWidth: 590,
-              showCaptions: true
-          },
-        },
-      "gatsby-remark-component"
-      ],
-    },
+            {
+              resolve: `gatsby-remark-images`,
+              options: {
+                // It's important to specify the maxWidth (in pixels) of
+                // the content container as this plugin uses this as the
+                // base for generating different widths of each image.
+                  maxWidth: 590,
+                  showCaptions: true,
+                  wrapperStyle: "margin-bottom:20px;"
+              }
+            },
+            "gatsby-remark-component",
+             {
+                  resolve: `gatsby-remark-copy-linked-files`,
+                  options: {
+                    destinationDir: `path/to/dir`,
+                    ignoreFileExtensions: [`png`, `jpg`, `jpeg`, `bmp`, `tiff`],
+                  }
+             }
+        ]
+      }
     },
     {
       resolve: `gatsby-plugin-disqus`,

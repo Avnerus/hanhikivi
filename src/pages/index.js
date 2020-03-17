@@ -1,8 +1,7 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 import styled from "@emotion/styled"
 
@@ -22,20 +21,21 @@ const IndexPage = ({data}) => (
         {data.allMarkdownRemark.edges.map(doc => {
             const category = doc.node.frontmatter.path.match(/^\/(\w+)\//)[1];
             let block;
-            if (category == 'news') {
+            if (category === 'news') {
                 block = <NewsBlock
                     category={doc.node.frontmatter.category}
                     title={doc.node.frontmatter.title}
                     date={doc.node.frontmatter.date}
                     author={doc.node.frontmatter.author}
-                    fluidImage={doc.node.frontmatter.image.childImageSharp.fluid}
+                    fluidImage={doc.node.frontmatter.image ? doc.node.frontmatter.image.childImageSharp.fluid : null}
                     abstract={doc.node.frontmatter.abstract}
                 >
                 </NewsBlock>
-            } else if (category == "docs") {
+            } else if (category === "docs") {
                 block = <DocBlock
                     category={doc.node.frontmatter.category}
                     title={doc.node.frontmatter.title}
+                    fluidImage={doc.node.frontmatter.image ? doc.node.frontmatter.image.childImageSharp.fluid : null}
                 >
                 </DocBlock>
             }
