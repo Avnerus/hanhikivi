@@ -4,6 +4,7 @@ date: "2020-02-24"
 title: "Rosatom suurisuuntaiset hankkeet, Maarit Nermes"
 abstract: "Rosatomilla on vireillä paljon, mutta tekeillä vähän"
 category: "Rosatom"
+image: "./images/rosatom-logo.jpg"
 tags: ["rosatom"]
 ---
 # ROSATOMIN SUURISUUNTAISET HANKKEET EIVÄT EHKÄ TOTEUDU KOSKAAN
