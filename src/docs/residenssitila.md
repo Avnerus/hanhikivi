@@ -4,18 +4,13 @@ date: "2020-10-05"
 title: "Residenssitila tiedotuskeskuksessa"
 abstract: "Hanhikivi tiedotuskeskus Residenssi"
 category: "infocenter"
-tags: ["infocenter"]
-tags: ["residenssi"]
+tags: ["infocenter","residenssi"]
 image: "./images/Tiedotuskeskus.JPG"
 ---
 
 # TIEDOTUSKESKUKSEN RESIDENSSI
 
-Tiedotuskeskus toimii residenssitilana. 
-Talossa olevia tiloja voi hyödyntää  jaksoittaiseen pienryhmätyöskentelyyn, työpajoihin, journalistiseen ja dokumentointityöhön, pieniin näyttelyihin ja tapahtumiin. 
-Kesällä käytettävissä ovat myös piharakennukset. 
-Tiedotuskeskus Hanhikiven toiminta rakentuu yhteisin ponnistuksin, ja esim. ruoka- ja polttopuukuluista on pieni päiväkohtainen maksu. 
-Ruoka-, lämmitys- ja yöpymiskulut ovat noin 9- 15e/vrk/hlö.
+Tiedotuskeskus toimii residenssitilana. Talossa olevia tiloja voi hyödyntää  jaksoittaiseen pienryhmätyöskentelyyn, työpajoihin, journalistiseen ja dokumentointityöhön, pieniin näyttelyihin ja tapahtumiin. Kesällä käytettävissä ovat myös piharakennukset. Tiedotuskeskus Hanhikiven toiminta rakentuu yhteisin ponnistuksin, ja esim. ruoka- ja polttopuukuluista on pieni päiväkohtainen maksu. Ruoka-, lämmitys- ja yöpymiskulut ovat noin 9- 15e/vrk/hlö.
 
 Residenssitoimijoille Osuuskunta Noidanlukko voi tarjota:
 
