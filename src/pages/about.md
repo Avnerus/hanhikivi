@@ -9,6 +9,9 @@ author: "Tiedotuskeskus Hanhikivi"
 # Tiedotuskeskus Hanhikivi
 
 Tilaa uutiskirjeemme. Uutiskirjeessä kerromme ajankohtaisista tapahtumista ja tavoista tukea Tiedotuskeskuksen toimintaa. 
+Order newsletter - stay up to date on events and ways to support Infocenter Hanhikivi´s activities. 
+
+
 <subscribe-component></subscribe-component>
 
 
