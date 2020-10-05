@@ -2,7 +2,7 @@
 path: "/docs/residenssitila"
 date: "2020-10-05"
 title: "Residenssitila tiedotuskeskuksessa"
-abstract: "Hanhikivi tiedotuskeskus Residenssi"
+abstract: "Hanhikivi tiedotuskeskus residenssitiloja"
 category: "infocenter"
 tags: ["infocenter","residenssi"]
 image: "./images/Tiedotuskeskus.JPG"
