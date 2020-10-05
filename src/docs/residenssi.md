@@ -1,11 +1,11 @@
 ---
-path: "/docs/residenssi"
+path: "/docs/residenssitila"
 date: "2020-10-05"
-title: "Residenssi"
+title: "Residenssitila tiedotuskeskuksessa"
 abstract: "Hanhikivi infocenter Residenssi"
 category: "infocenter"
 tags: ["infocenter"]
-tags: ["Hanhikivi1"]
+tags: ["residenssi"]
 image: "./images/Tiedotuskeskus.JPG
 ---
 
