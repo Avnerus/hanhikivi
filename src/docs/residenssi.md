@@ -11,6 +11,14 @@ image: "./images/Tiedotuskeskus.JPG
 
 # TIEDOTUSKESKUKSEN RESIDENSSI
 
+Tiedotuskeskus toimii residenssitilana. 
+Talossa olevia tiloja voi hyödyntää  jaksoittaiseen pienryhmätyöskentelyyn, työpajoihin,journalistiseen ja dokumentointityöhön, pieniin näyttelyihin ja tapahtumiin. 
+Kesällä käytettävissä ovat myös piharakennukset. 
+Tiedotuskeskus Hanhikiven toiminta rakentuu yhteisin ponnistuksin, ja esim. ruoka- ja polttopuukuluista on pieni päiväkohtainen maksu. 
+Ruoka-, lämmitys- ja yöpymiskulut ovat noin 9- 15e/vrk.
+
+Residenssitoimijoille Osuuskunta Noidanlukko voi tarjota:
+
 • Tiedotuskeskus Hanhikiven tuen resurssien mukaan
 
 • tapahtumia ja tilaisuuksia Pyhäjoella ja lähialueella, joiden yhteydessä toteuttaa taidetta ja tutkimusta, kerätä ja jakaa tietoa
