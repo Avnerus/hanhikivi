@@ -1,7 +1,7 @@
 ---
 path: "/docs/residenssitila"
 date: "2020-10-05"
-title: "Residenssitila tiedotuskeskuksessa"
+title: " Tiedotuskeskuksen residenssitila taiteilijoille, tutkijoille ja ryhmille"
 abstract: "Hanhikivi tiedotuskeskus residenssitiloja"
 category: "infocenter"
 tags: ["infocenter","residenssi"]
