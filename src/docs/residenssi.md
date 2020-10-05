@@ -6,7 +6,7 @@ abstract: "Hanhikivi infocenter Residenssi"
 category: "infocenter"
 tags: ["infocenter"]
 tags: ["Hanhikivi1"]
-image: "./images/Tiedotuskeskus.jpg
+image: "./images/Tiedotuskeskus.JPG
 ---
 
 # RESIDENSSI
