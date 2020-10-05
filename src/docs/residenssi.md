@@ -1,5 +1,5 @@
 ---
-path: "/docs/residenssitila"
+path: "/docs/residenssitila.md"
 date: "2020-10-05"
 title: "Residenssitila tiedotuskeskuksessa"
 abstract: "Hanhikivi tiedotuskeskus Residenssi"
