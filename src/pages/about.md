@@ -3,12 +3,12 @@ path: "/about"
 date: "2019-05-24"
 title: "About"
 category: "pages"
-author: "Tiina Prittinen"
+author: "Tiedotuskeskus Hanhikivi"
 ---
 
 # Tiedotuskeskus Hanhikivi
 
-Write here
+Tilaa uutiskirjeemme. Uutiskirjeessä kerromme ajankohtaisista tapahtumista ja tavoista tukea Tiedotuskeskuksen toimintaa. 
 <subscribe-component></subscribe-component>
 
 
