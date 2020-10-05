@@ -31,4 +31,4 @@ Residenssitoimijoille Osuuskunta Noidanlukko voi tarjota:
 
 Osuuskunta Noidanlukolla ei ole palkattua työvoimaa, se ei voi luvata taloudellista tukea ja kukin projektia toteuttava taho on viime kädessä itse vastuussa tekemästään työstä.
 
-![olkiluoto 3](./images/Olkiluoto 3.jpg)
+![Tiedotuskeskus ulkonäyttelytila](./images/Tiedotuskeskus ulkonäyttelytila.jpg)
