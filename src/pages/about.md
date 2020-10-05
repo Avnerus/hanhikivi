@@ -8,7 +8,9 @@ author: "Tiina Prittinen"
 
 # Tiedotuskeskus Hanhikivi
 
+Write here
 <subscribe-component></subscribe-component>
+
 
 Tiedotuskeskus Hanhikivi tuo esille kriittistä tietoa ydinvoimasta ja energian tuotannosta. Tiedotuskeskus Hanhikivi tarjoaa tilan, jossa ihmiset voivat kohdata, keskustella ja toimia aktiivisesti. Tilaa käytetään myös taiteen ja tutkimuksen tekemiseen residenssin tapaisesti. Kohtaamispaikka sijaitsee Pyhäjoen Kalifornian alueella noin kilometri kunnan keskustasta, osoitteessa Lahnaojantie 18. Tiedotuskeskuksen toiminnan organisointi on osuuskunnan pääasiallista toimintaa.
 
