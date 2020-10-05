@@ -5,7 +5,7 @@ title: "Poem: Alternatives?"
 abstract: "Poem: Alternatives?"
 category: "Test"
 image: "./images/DRAGON.JPG"
-author: "Senni Lappalainen"
+author: "Tiedotuskeskus Hanhikivi"
 ---
 
 # Alternatives?
