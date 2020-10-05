@@ -30,3 +30,5 @@ Residenssitoimijoille Osuuskunta Noidanlukko voi tarjota:
 • verkkosivut, joiden kautta tuoda esille ydinvoimakriittistä tietoa
 
 Osuuskunta Noidanlukolla ei ole palkattua työvoimaa, se ei voi luvata taloudellista tukea ja kukin projektia toteuttava taho on viime kädessä itse vastuussa tekemästään työstä.
+
+![olkiluoto 3](./images/Olkiluoto 3.jpg)
