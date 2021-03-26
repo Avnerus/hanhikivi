@@ -1,6 +1,6 @@
 ---
 path: "/support"
-date: "2020-10-18"
+date: "2021-03-26"
 title: "Support"
 category: "pages"
 author: "Tiedotuskeskus Hanhikivi"
