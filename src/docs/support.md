@@ -13,7 +13,7 @@ Osuuskunta Noidanlukolla on Pyhäjoen taajamassa talo, jossa toimii Tiedotuskesk
 
 ##OSUUDEN OMISTAJANA 
 
-###Annat mahdollisuuksia:
+##Annat mahdollisuuksia:
 - residenssityyppiselle toiminnalle taiteilijoille ja tutkijoille Tiedotuskeskus Hanhikivessä 
 - tapahtumien ja tilaisuuksien järjestämiseen Pyhäjoella ja lähialueilla
 - kiinteistön ylläpitämiseen
