@@ -78,9 +78,13 @@ It is important, that everyone follows the common principles while staying in In
 ### Welcome in the Information Center –when you arrive:           
 
 -everyone who stays in the house is always welcomed in the house and taken around and shown these principles. If you read this and you have some questions, please contact the house watch
+
 -you are very welcome to take part in the idea wall –with your vision, hope, dream or dystopia; poem, picture. You may reflect other ideas or have something completely out of the box.
+
 -put the heating on at 19 degrees and turn the main water tap on from the shower room, if needed
+
 -there is a booklet in the house on how to heat the sauna, how to use the shutters of the sauna and oven, kitchen and livingroom: please be aware of safety at all times
+
 -be very careful with the keys and do not leave doors open when you leave the house
 
 ### Shopping
