@@ -1,15 +1,15 @@
 ---
 path: "/docs/support"
 date: "2021-04-10"
-title: "Tue Tiedotuskeskuksen toimintaa tai liity Osuuskunta Noidanlukon jäseneksi"
+title: "Tue Tiedotuskeskuksen toimintaa ja liity Osuuskunta Noidanlukon jäseneksi"
 abstract: "Tule tukijaksi tai osuuskunnan jäseneksi"
 category: "infocenter"
 image: "./images/Noidanlukon tukija.jpg"
 tags: ["infocenter"]
 ---
-#TULE OSUUSKUNTA NOIDANLUKON JÄSENEKSI JA/TAI TUKIJAKSI! 
+#TULE OSUUSKUNTA NOIDANLUKON JÄSENEKSI! 
 
-Osuuskunta Noidanlukolla on Pyhäjoen taajamassa talo, jossa toimii Tiedotuskeskus Hanhikivi. Tiedotuskeskuksessa on järjestetty vuoden 2018 alusta tilaisuuksia, talkoita ja kokouksia. Taiteilijaresidenssissä on ollut lyhyt- ja pitempikestoista toimintaa, mm. Ruotsista ja Iso-Britanniasta. Lapin yliopiston tutkija Hanna Strauss oli avajaisluennoijana ja yhteistyötä tehdään parhaillaan Oulun yliopiston EU-rahoitteisen SIMRA-hankkeen kanssa (Social Innovations in Marginalised Rural Areas). Toukokuussa 2018 järjestettiin Pyhäjoen kirjastossa seminaari ”Minkälainen on demokratia?” ja kouluvierailuja Raahessa ja Pyhäjoella Suomalais-Ruotsalaisen kulttuurirahaston tuella. Kesällä 2020 kaksi sirkusakrobaattia (Milla Järvinen ja Noora Pasanen) järjestivät Pyhäjoella eri paikoissa tapahtuman ”Minne mieleni tekevi – pää alaspäin”. 
+Osuuskunta Noidanlukolla on Pyhäjoen taajamassa talo, jossa toimii Tiedotuskeskus Hanhikivi. Tiedotuskeskuksessa on järjestetty vuoden 2018 alusta tilaisuuksia, talkoita ja kokouksia. Taiteilijaresidenssissä on ollut lyhyt- ja pitempikestoista toimintaa, mm. Ruotsista ja Iso-Britanniasta. Lapin yliopiston tutkija Hanna Strauss oli avajaisluennoijana ja yhteistyötä tehdään parhaillaan Oulun yliopiston EU-rahoitteisen SIMRA-hankkeen kanssa (Social Innovations in Marginalised Rural Areas). Toukokuussa 2018 järjestettiin Pyhäjoen kirjastossa seminaari ”Minkälainen on demokratia?” ja kouluvierailuja Raahessa ja Pyhäjoella Suomalais-Ruotsalaisen kulttuurirahaston tuella. Kesällä 2020 kaksi sirkusakrobaattia (Milla Järvinen ja Noora Pasanen) järjestivät Pyhäjoella eri paikoissa tapahtuman ”Minne mieleni tekevi – pää alaspäin”. Kesälle 2021 on tavoitteena järjestää Tiedotuskeskuksen pihalla kesänäyttely. 
 
 ![Osuuskunta Noidanlukon tukija](/images/Noidanlukon tukija.jpg "Oletko jo mukana - Ihmisten, luonnon ja kulttuurin puolesta!")
 
@@ -34,15 +34,15 @@ Osuudenomistajana saat tietoa Tiedotuskeskus Hanhikiven toiminnasta sähköposti
 ##Voit osallistua toimintaan
 Onko sinulla juttuideoita verkkosivuille ydinvoima-aiheesta tai haluatko järjestää työpajan, tilaisuuden tai tutkimusta Pyhäjoella? Kiinnostaako järjestää tilaisuuksia tai keskusteluja? Haluatko tehdä puutarhaan jonkin kasviprojektin tai huolehtia sen ylläpidosta? Otathan yhteyttä tai lähetä yhteystietomme eteenpäin kiinnostuneille. Ennen talolle saapumista odota aina varmistus, onko tila käytettävissä.
 
-##Miten liityn jäseneksi ja/tai tukijaksi?
+##Miten liityn jäseneksi?
 Osuuskunta Noidanlukon osuuksien nimellisarvo on kymmenen (10,00) euroa. Osuuksia voi hankkia haluamansa määrän. Suosittelemme 5 tai 10 osuuden hankkimista. 
-Yhteisöt voivat hankkia useampiakin. 
+Yhteisöt voivat hankkia useampiakin. Jos haluat liittyä jäseneksi, lähetä meille sähköpostia: infocenterhanhikivi(at)riseup.net
  
 
 ##Kiitämme tuestasi!
 
 Osuuskunta Noidanlukon hallitus.
 
-Lisätietoja ja jäseneksi ja tukijaksi liittyminen:
+Lisätietoja ja jäseneksi liittyminen:
 Lea Launokari
 sähköposti: infocenterhanhikivi(at)riseup.net
