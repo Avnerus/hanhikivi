@@ -1,10 +1,10 @@
 ---
 path: "/news/Osuuskunta Noidanlukon tukijat"
 date: "2021-04-10"
-title: "OSUUSKUNTA NOIDANLUKON TUKIJOIDEN AJATUKSIA"
+title: "Tukijoiden ajatuksia"
 abstract: "Martti Suosalo ja Karoliina Kudjoi toimivat Osuuskunta Noidanlukon tukijoina"
 category: "Osuuskunta"
-image: "./images/Tulevaisuuden energiateko.jpg"
+image: "./images/call.jpg"
 tags: ["tiedotuskeskus"]
 author: "Tiedotuskeskus Hanhikivi"
 ---
