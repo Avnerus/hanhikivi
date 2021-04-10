@@ -20,7 +20,7 @@ _Edesautetaan ekologisesti kestäviä ratkaisuja,jotka kantavat tuleville sukupo
 
 
 _Uusiutuva energia on ydinvoimaa nopeampi ja taloudellisempi ratkaisu. Siirtyminen uusiutuvaan energiaan on mahdollista, turvallista ja edullisempaa kuin fossiiliset ja ydinvoima, todetaan Lappeenrannan teknillisen yliopiston (LUT) ja saksalaisen Energy Watch Groupin (EWG) tutkimusprojektissa.
-Ydinvoimateollisuus on riskialtista, kallista ja likaista. Esimerkiksi  Olkiluoto 3 hinta-arvio on n 10 miljardia €._ 
+Ydinvoimateollisuus on riskialtista, kallista ja likaista. Esimerkiksi  Olkiluoto 3 hinta-arvio on n. 10 miljardia €._ 
 >
 >> Martti Suosalo, näyttelijä, käsikirjoittaja, ohjaaja, s.Oulu
 
