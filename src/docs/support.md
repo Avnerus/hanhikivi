@@ -1,12 +1,11 @@
 ---
 path: "/docs/support"
 date: "2021-03-26"
-title: "Support"
+title: " Tue Tiedotuskeskuksen toimintaa tai liity Osuuskunta Noidanlukon jäseneksi"
 abstract: "Tule tukijaksi tai osuuskunnan jäseneksi"
 category: "infocenter"
 tags: ["infocenter"]
 image: "./images/Tiedotuskeskus.JPG"
-author: "Tiedotuskeskus Hanhikivi"
 ---
 
 #TULE OSUUSKUNTA NOIDANLUKON JÄSENEKSI JA/TAI TUKIJAKSI!# 
