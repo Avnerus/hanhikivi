@@ -4,7 +4,7 @@ date: "2021-04-10"
 title: "OSUUSKUNTA NOIDANLUKON TUKIJOIDEN AJATUKSIA"
 abstract: "Martti Suosalo ja Karoliina Kudjoi toimivat Osuuskunta Noidanlukon tukijoina"
 category: "Osuuskunta"
-image: "./images/call.jpg"
+image: "./images/Tulevaisuuden energiateko.jpg"
 tags: ["tiedotuskeskus"]
 author: "Tiedotuskeskus Hanhikivi"
 ---
