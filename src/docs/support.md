@@ -5,7 +5,7 @@ title: "Support"
 abstract: "Tule tukijaksi tai osuuskunnan jäseneksi"
 category: "infocenter"
 tags: ["infocenter"]
-image: "Tiedotuskeskus.JPG"
+image: "./images/Tiedotuskeskus.JPG"
 author: "Tiedotuskeskus Hanhikivi"
 ---
 
