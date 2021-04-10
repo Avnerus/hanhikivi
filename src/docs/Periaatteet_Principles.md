@@ -1,15 +1,15 @@
 ---
 path: "/docs/Periaatteet_Principles"
 date: "2021-04-10"
-title: "Toiminnan tarkoitus ja periaatteet, Principles and aims of Information Center Hanhikivi"
+title: "Toiminnan tarkoitus ja periaatteet,          Principles and aims of Information Center Hanhikivi"
 abstract: "Tutustu periaatteisiimme, This page explains our principles "
 category: "infocenter"
 image: "./images/Tiedotuskeskus.JPG"
 tags: ["infocenter"]
 ---
-## English below
+## Principles and aims of Information Center Hanhikivi in english below
 ## Talon säännöt alinpana englanniksi
-## House rules below
+## House rules in english below
 
 Tiedotuskeskus Hanhikivi tuo esille kriittistä tietoa ydinvoimasta ja energian tuotannosta. Tiedotuskeskus Hanhikivi tarjoaa tilan, jossa ihmiset voivat kohdata, keskustella ja toimia aktiivisesti. Tilaa käytetään myös taiteen ja tutkimuksen tekemiseen residenssin tapaisesti. Kohtaamispaikka sijaitsee Pyhäjoen Kalifornian alueella noin kilometri kunnan keskustasta, osoitteessa Lahnaojantie 18. Tiedotuskeskuksen toiminnan organisointi on osuuskunnan pääasiallista toimintaa.
 
