@@ -8,6 +8,7 @@ tags: ["infocenter"]
 image: "Tiedotuskeskus.JPG"
 author: "Tiedotuskeskus Hanhikivi"
 ---
+
 #TULE OSUUSKUNTA NOIDANLUKON JÄSENEKSI JA/TAI TUKIJAKSI!# 
 
 Osuuskunta Noidanlukolla on Pyhäjoen taajamassa talo, jossa toimii Tiedotuskeskus Hanhikivi. Tiedotuskeskuksessa on järjestetty vuoden 2018 alusta tilaisuuksia, talkoita ja kokouksia. Taiteilijaresidenssissä on ollut lyhyt- ja pitempikestoista toimintaa, mm. Ruotsista ja Iso-Britanniasta. Lapin yliopiston tutkija Hanna Strauss oli avajaisluennoijana ja yhteistyötä tehdään parhaillaan Oulun yliopiston EU-rahoitteisen SIMRA-hankkeen kanssa (Social Innovations in Marginalised Rural Areas). Toukokuussa 2018 järjestettiin Pyhäjoen kirjastossa seminaari ”Minkälainen on demokratia?” ja kouluvierailuja Raahessa ja Pyhäjoella Suomalais-Ruotsalaisen kulttuurirahaston tuella. Kesällä 2020 kaksi sirkusakrobaattia (Milla Järvinen ja Noora Pasanen) järjestivät Pyhäjoella eri paikoissa tapahtuman ”Minne mieleni tekevi – pää alaspäin”. 
