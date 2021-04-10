@@ -1,0 +1,51 @@
+path: "/news/jäsenille"
+date: "2021-03-26"
+title: "Osuuskunta Noidanlukon jäsenyys"
+abstract: "TULE OSUUSKUNTA NOIDANLUKON JÄSENEKSI TAI TUKIJAKSI!"
+tags: ["osuuskunta"]
+category: "News"
+---
+
+
+#OSUUSKUNTA NOIDANLUKON JÄSENYYS#
+
+
+Osuuskunta Noidanlukko tarjoaa mahdollisuutta tukea mielenkiintoista projektia, jossa mm. tuodaan esille kriittistä tietoa ydinvoiman tuotannosta ja luodaan puitteita tutkijoille, taiteilijoille, kursseille sekä muuhun
+työskentelyyn ja tapahtumiin. Osuuskunta on aatteellinen ja voittoa tavoittelematon. Osuuden hankkimalla sinulla on äänioikeus osuuskunnan kokouksissa. Fennovoiman projektista on yleisesti tiedossa, että usea hankkeen riskeistä on jo
+toteutunut, viivästyminen on nyt yli 10 vuotta, toiminnan perustelut ovat yhä epäuskottavammat ja hankkeen toteuttajien toimintakulttuuri ei luo uskoa turvalliseen toteutumiseen. Ydinvoima ei tarjoa ratkaisua
+ilmastonmuutoksen torjumiseen, vaan päinvastoin se sitoo resursseja epäeettiseen, kalliiseen ja riskialttiiseen teollisuuteen ja rikkoo demokraattista ja rauhaa rakentavaa yhteiskuntaa.
+
+Osuuskunta Noidanlukolla on Pyhäjoen taajamassa talo, jossa toimii Tiedotuskeskus Hanhikivi. Tiedotuskeskuksessa on järjestetty vuoden 2018 alusta tilaisuuksia, talkoita ja kokouksia. Taiteilijaresidenssissä
+on ollut lyhyt- ja pitempikestoista toimintaa, mm.Ruotsista ja Iso-Britanniasta. 
+
+##OSUUDEN OMISTAJANA##
+
+Annat mahdollisuuksia:
+- residenssityyppiselle toiminnalle taiteilijoille ja tutkijoille Tiedotuskeskus Hanhikivessä
+- tapahtumien ja tilaisuuksien järjestämiseen Pyhäjoella ja lähialueilla
+- kiinteistön ylläpitämiseen
+- Tiedotuskeskuksen verkkosivuihin ja muihin pieniin tiedonvälityskuluihin (sisällöt tuotetaan vapaaehtoisvoimin ja yhteistyöllä)
+- Tuet ydinvoiman vastaista toimintaa ja naapuriyhteistyötä
+
+Osuuskunta kerää tietoa, julkaisee tiedotteita ja lehtiä, jakaa materiaalia sekä pyrkii tapahtumien välityksellä lisäämään puolueetonta tietoa ja keskustelua alueen ihmisten keskuudessa.
+Edesautat monimuotoista energiantuotantoa Tiedotuskeskuksen toiminta on ekologiseen elämäntapaan suuntautuvaa, ja tähtää vaihtoehtoisiin,ekologisiin ja tasa-arvoisiin käytännön toimintatapoihin,
+esimerkiksi kierrätykseen, julkisiin liikennevälineisiin ja pihalla kasvatetun ja kasvisravinnon suosimiseen.
+
+Saat tietoa ja pääset majoittumaan Pyhäjoelle Osuudenomistajana saat tietoa Tiedotuskeskus Hanhikiven toiminnasta sähköpostitse, nettisivujen ja/tai facebookin kautta.
+
+###Osuudenomistajana (50 - 100 €)###
+saat mahdollisuuden yöpyä yhden yön tai kaksi Tiedotuskeskus Hanhikiven tiloissa Pyhäjoella
+(Lahnaojantie 18). Ota yhteyttä kun haluat tehdä varauksen.
+
+
+Onko sinulla juttuideoita verkkosivuille ydinvoima- aiheesta tai haluatko järjestää työpajan, tilaisuuden tai tutkimusta Pyhäjoella? Kiinnostaako järjestää tilaisuuksia tai keskusteluja? Haluatko tehdä
+puutarhaan jonkin kasviprojektin tai huolehtia sen ylläpidosta? Otathan yhteyttä tai lähetä yhteystietomme eteenpäin kiinnostuneille. Ennen talolle saapumista odota aina varmistus, onko tila käytettävissä.
+
+###Miten liityn jäseneksi ja/tai tukijaksi?###
+Osuuskunta Noidanlukon osuuksien nimellisarvo on kymmenen (10,00) euroa. Osuuksia voi hankkia haluamansa määrän. Suosittelemme 5 tai 10 osuuden hankkimista. Yhteisöt voivat hankkia useampiakin.
+
+
+Mukaan pääset ottamalla yhteyttä Noidanlukon hallitukseen 
+Lisätietoja:
+Lea Launokari
+sähköposti: infocenterhanhikivi(at)riseup.net
