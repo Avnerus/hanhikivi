@@ -4,8 +4,8 @@ date: "2021-04-10"
 title: "Osuuskunta Noidanlukon tukijoiden ajatuksia"
 abstract: "Martti Suosalo ja Karoliina Kudjoi toimivat Osuuskunta Noidanlukon tukijoina"
 category: "Osuuskunta"
-image:
-tags ["tiedotuskeskus"]
+image: "./images/call.jpg"
+tags: ["tiedotuskeskus"]
 author: "Tiedotuskeskus Hanhikivi"
 ---
 
@@ -24,4 +24,4 @@ Ydinvoimateollisuus on riskialtista, kallista ja likaista. Esimerkiksi  Olkiluot
 - Martti Suosalo
 
 
-[Lue lisää, miten voit toimia osuuskunnan tukijana] (./docs/support) 
+[Lue lisää, miten voit toimia osuuskunta Noidanlukon tukijana](https://hanhikivi.center/docs/support) 
