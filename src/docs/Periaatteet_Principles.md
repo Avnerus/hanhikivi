@@ -43,36 +43,54 @@ Tiedotuskeskus Hanhikivi tarjoaa puitteet poikkitieteelliselle ja -taiteellisell
 ## PRINCIPLES AND AIMS OF INFORMATION CENTER HANHIKIVI:
 
 This paper can be regularly checked in meetings of Noidanlukko co-operative.
-Information Center Hanhikivi offers facilities for multidisciplinary research and practice in arts and sciences. It is focusing on the human-nature relation, how it is built and on information and interaction around the topic. In the Information Center large scale projects that change the environment significantly, their environmental impact and impact on societies are in the center of our interest. We follow the impacts on the area and create basis for further research, documentation and history writing. Especially the Pyhäjoki nuclear power plant project and the uranium lifecycle are focused on. 
-The center is in co-operation with projects, research centers, individual artists and scholars. The work began in 2018 and continues until late autumn 2021. 
+Information Center Hanhikivi offers facilities for multidisciplinary research and practice in arts and sciences. It is focusing on the human-nature relation, how it is built and on information and interaction around the topic. In the Information Center large scale projects that change the environment significantly, their environmental impact and impact on societies are in the center of our interest. We follow the impacts on the area and create basis for further research, documentation and history writing. Especially the Pyhäjoki nuclear power plant project and the uranium lifecycle are focused on. The center is in co-operation with projects, research centers, individual artists and scholars. The work began in 2018 and continues until late autumn 2021. 
  
 AIMS of the Information Center Hanhikivi:
 
 -To bring up critical information about nuclear power and energy production in general
+
 -to create a space where people can meet and discuss about nuclear power, energy and other concerns related to these issues
+
 -to create new forms of discussion
+
 -to offer artists and scientists a platform and facilities for work-to create possibilities for citizens to be active producers of information
+
 -to learn and teach sustainable way of living-to encourage people to become active in resisting destructive energy production
+
 
 ACTIVITIES at the Information Center Hanhikivi:
 
 -We are supporting people and groups which are doing anti-nuclear work, and which accept the aims and principles of information centre Hanhikivi by giving facilities for them.
+
 -Our work is interdisciplinary and artistic and we support professional artists and scientists
+
 -we are doing research related to projects that are strongly changing the environment
+
 -we can do research related to the social impact of massive projects, such as nuclear power building
+
 -we organize courses, lessons, exhibitions and open discussions
+
 -we implement creative projects with humour
+
 -we offer space to work for people to implement projects such as mentioned above
+
 -we aim to cooperate with similar projects in Finland and abroad
+
 
 OUR PRINCIPLES in the Information Center Hanhikivi
 
 -This is an open space, where people should feel welcome and safe. Please, keep it clean and behave nicely!
+
 -Our action is non-violent, peaceful, respecting diversity in nature and respecting human dignity. In our work we also follow the law.
+
 -Good relations with neigbours are important for us
+
 -The house is alcohol and drug free place.
--Any discrimination against ethnicity, age, gender, sexuality, religion will not be tolerated .
+
+-Any discrimination against ethnicity, age, gender, sexuality, religion will not be tolerated.
+
 -In the house, all kind avoidance of oppression is important: it also involves the word choice in meetings and in public places
+
 -We all have in subconscious way made the dominance of this kind of behavior normal; let us work together to stop this development, by accepting critique and noticing people who express their concern to delete all kind of submission and oppression. Today it is impossible not to notice how patriarchal model of action effects our reactions, our everyday lives and our political conduct: men talk more often in meetings, women’s talk is more often interrupted and tasks are divided according to gender, those tasks that are traditionally masculine are seen as “more important” etc. We need to pay attention to these facts in order to change our behavior. 
 
 LIVING SIDE BY SIDE–INFORMATION ON PRACTICALITIES
