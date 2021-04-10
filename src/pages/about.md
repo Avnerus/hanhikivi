@@ -17,7 +17,7 @@ Order newsletter - stay up to date on events and ways to support Infocenter Hanh
 Antamasi yhteystiedot tallennetaan  Mailchimp-uutiskirjeohjelmaan. Sähköpostiosoitettasi ei tallenneta muihin järjestelmiin tai käytetä muuhun tarkoitukseen. Voit perua uutiskirjeen unsubsribe toiminnolla vastaanotetun kirjeen alaososassa tai ottamalla yhteyttä infocenterhanhikivi(at)riseup.net. 
 Given information is used only in Mailchimp-program, that we use for sending email-letter. You can unsubscribe via received newsletter orcontact us via email infocenterhanhikivi(at)riseup.net
 
-#Facebook
+# Facebook
 
  [Tiedotuskeskus Hanhikiven Facebook-sivu](https://www.facebook.com/InformationCenterHanhikivi/)
 
