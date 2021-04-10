@@ -18,7 +18,7 @@ _Edesautetaan ekologisesti kestäviä ratkaisuja,jotka kantavat tuleville sukupo
 >
 >> Karoliina Kudjoi
 
-![Martti Suosalo, kuvaaja Olli Herranen](/images/Martti Suosalo, kuva Olli Herranen 2013 (1).jpg "Martti Suosalo")
+![Martti Suosalo, kuvaaja Olli Herranen](/images/Martti Suosalo, kuva Olli Herranen.jpg "Martti Suosalo")
 
 
 _Uusiutuva energia on ydinvoimaa nopeampi ja taloudellisempi ratkaisu. Siirtyminen uusiutuvaan energiaan on mahdollista, turvallista ja edullisempaa kuin fossiiliset ja ydinvoima, todetaan Lappeenrannan teknillisen yliopiston (LUT) ja saksalaisen Energy Watch Groupin (EWG) tutkimusprojektissa.
