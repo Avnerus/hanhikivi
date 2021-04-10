@@ -2,7 +2,7 @@
 path: "/docs/support"
 date: "2021-04-10"
 title: "Tue Tiedotuskeskuksen toimintaa ja liity Osuuskunta Noidanlukon jäseneksi"
-abstract: "Tule tukijaksi tai osuuskunnan jäseneksi"
+abstract: "Osuuskunta Noidanlukon jäsenyys"
 category: "infocenter"
 image: "./images/Noidanlukon tukija.jpg"
 tags: ["infocenter"]
