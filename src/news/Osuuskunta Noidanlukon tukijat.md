@@ -6,7 +6,6 @@ abstract: "Martti Suosalo ja Karoliina Kudjoi toimivat Osuuskunta Noidanlukon tu
 category: "Osuuskunta"
 image: "./images/call.jpg"
 tags: ["tiedotuskeskus"]
-author: "Tiedotuskeskus Hanhikivi"
 ---
 
 
