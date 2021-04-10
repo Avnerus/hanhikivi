@@ -48,5 +48,4 @@ Tutustu toimintaamme ja lähetä meille sähköpostia: infocenterhanhikivi(at)ri
 Osuuskunta Noidanlukon hallitus.
 
 Lisätietoja ja jäseneksi liittyminen:
-Lea Launokari
 sähköposti: infocenterhanhikivi(at)riseup.net
