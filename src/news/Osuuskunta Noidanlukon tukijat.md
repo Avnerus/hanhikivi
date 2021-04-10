@@ -1,7 +1,7 @@
 ---
 path: "/news/Osuuskunta Noidanlukon tukijat"
 date: "2021-04-10"
-title: "Osuuskunta Noidanlukon tukijoiden ajatuksia"
+title: "OSUUSKUNTA NOIDANLUKON TUKIJOIDEN AJATUKSIA"
 abstract: "Martti Suosalo ja Karoliina Kudjoi toimivat Osuuskunta Noidanlukon tukijoina"
 category: "Osuuskunta"
 image: "./images/call.jpg"
@@ -9,7 +9,6 @@ tags: ["tiedotuskeskus"]
 author: "Tiedotuskeskus Hanhikivi"
 ---
 
-# OSUUSKUNTA NOIDANLUKON TUKIJOIDEN AJATUKSIA
 
 ![Karoliina Kudjoi, kuvaaja Laura Malmivaara](/images/Karoliina Kudjoi, kuva Laura Malmivaara.jpg "Karoliina Kudjoi")
 
