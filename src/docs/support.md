@@ -4,7 +4,6 @@ date: "2021-04-10"
 title: "Tue Tiedotuskeskuksen toimintaa tai liity Osuuskunta Noidanlukon jäseneksi"
 abstract: "Tule tukijaksi tai osuuskunnan jäseneksi"
 category: "infocenter"
-image: "./images/Osuuskunta_Noidanlukon tukijaksi.png"
 tags: ["infocenter"]
 ---
 #TULE OSUUSKUNTA NOIDANLUKON JÄSENEKSI JA/TAI TUKIJAKSI! 
