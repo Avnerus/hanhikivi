@@ -8,6 +8,8 @@ image: "./images/Tiedotuskeskus.JPG"
 tags: ["infocenter"]
 ---
 ## English below
+## Talon säännöt alinpana englanniksi
+## House rules below
 
 Tiedotuskeskus Hanhikivi tuo esille kriittistä tietoa ydinvoimasta ja energian tuotannosta. Tiedotuskeskus Hanhikivi tarjoaa tilan, jossa ihmiset voivat kohdata, keskustella ja toimia aktiivisesti. Tilaa käytetään myös taiteen ja tutkimuksen tekemiseen residenssin tapaisesti. Kohtaamispaikka sijaitsee Pyhäjoen Kalifornian alueella noin kilometri kunnan keskustasta, osoitteessa Lahnaojantie 18. Tiedotuskeskuksen toiminnan organisointi on osuuskunnan pääasiallista toimintaa.
 
@@ -46,16 +48,18 @@ The center is in co-operation with projects, research centers, individual artist
  
 AIMS of the Information Center Hanhikivi:
 
--To bring up critical information about nuclear power and energy production in general-to create a space where people can meet and discuss about nuclear power, energy and other concerns related to these issues-to create new forms of discussion
--to offer artists and scientists a platform and facilities for work-to create possibilities for citizens to be active producers of information-to learn and teach sustainable way of living-to encourage people to become active in resisting destructive energy production
+-To bring up critical information about nuclear power and energy production in general
+-to create a space where people can meet and discuss about nuclear power, energy and other concerns related to these issues
+-to create new forms of discussion
+-to offer artists and scientists a platform and facilities for work-to create possibilities for citizens to be active producers of information
+-to learn and teach sustainable way of living-to encourage people to become active in resisting destructive energy production
 
 ACTIVITIES at the Information Center Hanhikivi:
 
 -We are supporting people and groups which are doing anti-nuclear work, and which accept the aims and principles of information centre Hanhikivi by giving facilities for them.
 -Our work is interdisciplinary and artistic and we support professional artists and scientists
 -we are doing research related to projects that are strongly changing the environment
--we can do research related to the social impact of massive projects, such as nuclear power
-building
+-we can do research related to the social impact of massive projects, such as nuclear power building
 -we organize courses, lessons, exhibitions and open discussions
 -we implement creative projects with humour
 -we offer space to work for people to implement projects such as mentioned above
