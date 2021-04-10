@@ -5,7 +5,7 @@ title: "Support"
 abstract: "Tule tukijaksi tai osuuskunnan jäseneksi"
 category: "infocenter"
 tags: ["infocenter"]
-image: "Tiedotuskeskus ulkonäyttelytila.JPG"
+image: "Tiedotuskeskus.JPG"
 author: "Tiedotuskeskus Hanhikivi"
 ---
 #TULE OSUUSKUNTA NOIDANLUKON JÄSENEKSI JA/TAI TUKIJAKSI!# 
