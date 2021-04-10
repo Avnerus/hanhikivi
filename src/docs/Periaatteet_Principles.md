@@ -1,7 +1,7 @@
 ---
 path: "/docs/Periaatteet_Principles"
 date: "2021-04-10"
-title: "Toiminnan tarkoitus ja periaatteet, Principles and aims of Information center Hanhikivi"
+title: "Toiminnan tarkoitus ja periaatteet, Principles and aims of Information Center Hanhikivi"
 abstract: "Tutustu periaatteisiimme, This page explains our principles "
 category: "infocenter"
 image: "./images/Tiedotuskeskus.JPG"
