@@ -3,8 +3,9 @@ path: "/support"
 date: "2021-03-26"
 title: "Support"
 abstract: "Tule tukijaksi tai osuuskunnan jäseneksi"
-category: "pages"
+category: "support"
 tags: ["support"]
+image: "Tiedotuskeskus ulkonäyttelytila.jpg"
 author: "Tiedotuskeskus Hanhikivi"
 ---
 
