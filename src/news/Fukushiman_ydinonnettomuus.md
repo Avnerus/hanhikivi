@@ -1,12 +1,13 @@
 ---
-path: "/news/Fukushiman ydinonnettomuus"
+path: "/news/Fukushiman_ydinonnettomuus"
 date: "2021-04-10"
 title: "Fukushiman ydinonnettomuuden 10-vuotismuistopäivä"
 abstract: "Fukushiman ydinonnettomuuden muistopäivä Tiedotuskeskus Hanhikivellä"
 category: "infocenter"
-image: "/images/Fukushiman muistopäivä.jpg"
+image: "./images/Fukushiman muistopäivä.jpg"
 tags: ["infocenter"]
 ---
+
 
 ![Fukushiman ydinonnettomuuden muistopäivä Tiedotuskeskus Hanhikivellä](/images/Fukushiman muistopäivä.jpg)
 
