@@ -1,7 +1,7 @@
 ---
 path: "/docs/Periaatteet_Principles"
 date: "2021-04-10"
-title: "Toiminnan tarkoitus ja periaatteet,          Principles and aims of Information Center Hanhikivi"
+title: " Tiedotuskeskus Hanhikiven toiminnan tarkoitus ja periaatteet, Principles and aims of Information Center Hanhikivi"
 abstract: "Tutustu periaatteisiimme, This page explains our principles "
 category: "infocenter"
 image: "./images/Tiedotuskeskus.JPG"
@@ -10,6 +10,8 @@ tags: ["infocenter"]
 ## Principles and aims of Information Center Hanhikivi in english below
 ## Talon säännöt alinpana englanniksi
 ## House rules in english below
+
+# TOIMINNAN TARKOITUS JA PERIAATTEET
 
 Tiedotuskeskus Hanhikivi tuo esille kriittistä tietoa ydinvoimasta ja energian tuotannosta. Tiedotuskeskus Hanhikivi tarjoaa tilan, jossa ihmiset voivat kohdata, keskustella ja toimia aktiivisesti. Tilaa käytetään myös taiteen ja tutkimuksen tekemiseen residenssin tapaisesti. Kohtaamispaikka sijaitsee Pyhäjoen Kalifornian alueella noin kilometri kunnan keskustasta, osoitteessa Lahnaojantie 18. Tiedotuskeskuksen toiminnan organisointi on osuuskunnan pääasiallista toimintaa.
 
@@ -40,7 +42,7 @@ Tiedotuskeskus Hanhikivi tarjoaa puitteet poikkitieteelliselle ja -taiteellisell
 – talolle tullessasi lue aina tarkemmin talon yhteisesti sovitut säännöt
 
 
-## PRINCIPLES AND AIMS OF INFORMATION CENTER HANHIKIVI:
+# PRINCIPLES AND AIMS OF INFORMATION CENTER HANHIKIVI:
 
 This paper can be regularly checked in meetings of Noidanlukko co-operative.
 Information Center Hanhikivi offers facilities for multidisciplinary research and practice in arts and sciences. It is focusing on the human-nature relation, how it is built and on information and interaction around the topic. In the Information Center large scale projects that change the environment significantly, their environmental impact and impact on societies are in the center of our interest. We follow the impacts on the area and create basis for further research, documentation and history writing. Especially the Pyhäjoki nuclear power plant project and the uranium lifecycle are focused on. The center is in co-operation with projects, research centers, individual artists and scholars. The work began in 2018 and continues until late autumn 2021. 
